@@ -6,7 +6,7 @@ public class PlayerMovement : MonoBehaviour
 
 {
     private Vector3 movementVector;
-    private CharacterController characterController;
+    //private CharacterController characterController;
     [SerializeField]
     private float movementSpeed = 8;
     private Rigidbody2D rig;
@@ -38,10 +38,10 @@ public class PlayerMovement : MonoBehaviour
             Vector3 movement = new Vector3(moveHorizontal, moveVertical, 0.0f);
             rig.velocity = (movement * movementSpeed * .1f);
         }
-        if (movementVector != Vector3.zero)
-        {
-            characterController.Move(movementVector * Time.deltaTime);
-        }
+        //if (movementVector != Vector3.zero)
+        //{
+        //    characterController.Move(movementVector * Time.deltaTime);
+        //}
 
 
         ////This turns right or left. I decided to go for a directional approach. 8 directions
