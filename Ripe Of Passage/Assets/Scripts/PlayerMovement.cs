@@ -9,6 +9,7 @@ public class PlayerMovement : MonoBehaviour
     private CharacterController characterController;
     [SerializeField]
     private float movementSpeed = 8;
+    private Rigidbody2D rig;
     //private float jumpPower = 15;
     //private float gravity = 0;
 
@@ -16,11 +17,13 @@ public class PlayerMovement : MonoBehaviour
     void Start()
     {
         //characterController = GetComponent<CharacterController>();
+        rig = GetComponent<Rigidbody2D>();
     }
 
 
     void Update()
     {
+        rig.velocity = new Vector2(0, 0);
         //for controller movement
         movementVector.x = Input.GetAxis("LeftJoystickX") * movementSpeed;
         movementVector.y = Input.GetAxis("LeftJoystickY") * movementSpeed;
@@ -33,7 +36,7 @@ public class PlayerMovement : MonoBehaviour
         if (moveHorizontal != 0.0f || moveVertical != 0.0f)
         {
             Vector3 movement = new Vector3(moveHorizontal, moveVertical, 0.0f);
-            transform.Translate(movement * movementSpeed * .1f);
+            rig.velocity = (movement * movementSpeed * .1f);
         }
         if (movementVector != Vector3.zero)
         {
