@@ -25,11 +25,14 @@ public class Shooting : MonoBehaviour {
         //mouse controls
         worldPosition = Camera.main.ScreenPointToRay(Input.mousePosition).GetPoint(cameraDif);
         worldPosition.z = transform.position.z;
-        //transform.LookAt(worldPosition);
+        
+
+        Quaternion temp = transform.rotation;
 
         if (Input.GetMouseButtonDown(0))
         {
             Debug.Log("Left Mouse Clicked");
+            transform.LookAt(worldPosition);
             Instantiate(bulletPrefab, transform.position + (transform.forward * .8f), transform.rotation);
 
         }
@@ -61,6 +64,8 @@ public class Shooting : MonoBehaviour {
             Debug.Log("LeftArrow Pressed");
             Instantiate(bulletPrefab, transform.position + (transform.forward * .8f), transform.rotation);
         }
+
+        transform.rotation = temp;
 
     }
 }
