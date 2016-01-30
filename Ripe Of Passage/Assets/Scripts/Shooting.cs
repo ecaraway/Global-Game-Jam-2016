@@ -59,7 +59,7 @@ public class Shooting : MonoBehaviour {
              Vector3 direction = Camera.main.ScreenPointToRay(Input.mousePosition).GetPoint(cameraDif);
 
              transform.LookAt(worldPosition);
-             GameObject bull = (GameObject)Instantiate(bulletPrefab, myPos + (transform.forward.normalized * .2f), transform.rotation); 
+             GameObject bull = (GameObject)Instantiate(bulletPrefab, myPos + (transform.forward.normalized * .6f), transform.rotation); 
              bull.GetComponent<Rigidbody2D>().AddForce(transform.forward * bulletSpeed);
              bull.GetComponent<Rigidbody2D>().transform.rotation = Quaternion.LookRotation(Vector3.forward , transform.forward );
                  //Quaternion.AngleAxis(Mathf.Atan2(transform.forward.y, transform.forward.x) * Mathf.Rad2Deg, Vector3.forward);
