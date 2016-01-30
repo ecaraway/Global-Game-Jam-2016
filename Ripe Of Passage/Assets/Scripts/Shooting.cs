@@ -15,6 +15,7 @@ public class Shooting : MonoBehaviour {
     private float cameraX;
     private float cameraY;
 
+
     //public int speed;
 
 
@@ -63,27 +64,38 @@ public class Shooting : MonoBehaviour {
         //arrow controls
         if(Input.GetKey(KeyCode.UpArrow)){
             Debug.Log("UpArrow Pressed");
+            worldPosition = Camera.main.ScreenPointToRay(Input.mousePosition).GetPoint(cameraDif);
+            worldPosition.z = transform.position.z;
             transform.LookAt(worldPosition);
             Instantiate(bulletPrefab, transform.position + (transform.forward.normalized * .8f), transform.rotation);
         }
         
         if(Input.GetKey(KeyCode.DownArrow)){
             Debug.Log("DownArrow Pressed");
+            worldPosition = Camera.main.ScreenPointToRay(Input.mousePosition).GetPoint(cameraDif);
+            worldPosition.z = transform.position.z;
             transform.LookAt(worldPosition);
             Instantiate(bulletPrefab, transform.position + (transform.forward * .8f), transform.rotation);
         }
         
           if(Input.GetKey(KeyCode.RightArrow)){
               Debug.Log("RightArrow Pressed");
+              worldPosition = Camera.main.ScreenPointToRay(Input.mousePosition).GetPoint(cameraDif);
+              worldPosition.z = transform.position.z;
               transform.LookAt(worldPosition);
-            Instantiate(bulletPrefab, transform.position + (transform.forward * .8f), transform.rotation);
+              Instantiate(bulletPrefab, transform.position + (transform.forward * .8f), transform.rotation);
         }
         
           if(Input.GetKey(KeyCode.LeftArrow)){
               Debug.Log("LeftArrow Pressed");
+              worldPosition = Camera.main.ScreenPointToRay(Input.mousePosition).GetPoint(cameraDif);
+              worldPosition.z = transform.position.z;
               transform.LookAt(worldPosition);
             Instantiate(bulletPrefab, transform.position + (transform.forward * .8f), transform.rotation);
         }
+        
+        
+        
 
         transform.rotation = temp;
 
