@@ -46,10 +46,12 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\Scripts\Bullet.cs" />
+     <Compile Include="Assets\Scripts\CameraController.cs" />
      <Compile Include="Assets\Scripts\EnemyPathFollowing.cs" />
      <Compile Include="Assets\Scripts\FleeingBehavior.cs" />
      <Compile Include="Assets\Scripts\OffsetPursuitBehavior.cs" />
      <Compile Include="Assets\Scripts\PlayerController.cs" />
+     <Compile Include="Assets\Scripts\PlayerMovement.cs" />
      <Compile Include="Assets\Scripts\Shooting.cs" />
      <Compile Include="Assets\unity-movement-ai\Scripts\ArriveUnit.cs" />
      <Compile Include="Assets\unity-movement-ai\Scripts\Camera\CameraMovement.cs" />

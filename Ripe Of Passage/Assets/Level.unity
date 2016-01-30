@@ -521,6 +521,7 @@ GameObject:
   - 92: {fileID: 256827824}
   - 124: {fileID: 256827823}
   - 81: {fileID: 256827822}
+  - 114: {fileID: 256827827}
   m_Layer: 0
   m_Name: Main Camera
   m_TagString: MainCamera
@@ -590,11 +591,23 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 256827821}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: -10}
+  m_LocalPosition: {x: -8, y: -3, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 0
+--- !u!114 &256827827
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 256827821}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5e64011540c6c8e4e817a7f645a8e9b6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  player: {fileID: 2100795712}
 --- !u!1 &311529953
 GameObject:
   m_ObjectHideFlags: 0
@@ -624,7 +637,7 @@ Transform:
   m_LocalScale: {x: 0.5, y: 4, z: 1}
   m_Children: []
   m_Father: {fileID: 1194902930}
-  m_RootOrder: 6
+  m_RootOrder: 5
 --- !u!50 &311529955
 Rigidbody2D:
   serializedVersion: 2
@@ -1059,7 +1072,7 @@ GameObject:
   m_Component:
   - 4: {fileID: 626583271}
   - 212: {fileID: 626583274}
-  - 61: {fileID: 626583273}
+  - 61: {fileID: 626583272}
   m_Layer: 0
   m_Name: Boundary
   m_TagString: Untagged
@@ -1079,7 +1092,7 @@ Transform:
   m_Children: []
   m_Father: {fileID: 1194902930}
   m_RootOrder: 0
---- !u!61 &626583273
+--- !u!61 &626583272
 BoxCollider2D:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
@@ -1389,7 +1402,7 @@ Transform:
   m_LocalScale: {x: 0.5, y: 2, z: 1}
   m_Children: []
   m_Father: {fileID: 1194902930}
-  m_RootOrder: 5
+  m_RootOrder: 6
 --- !u!50 &908651403
 Rigidbody2D:
   serializedVersion: 2
@@ -1927,8 +1940,8 @@ Transform:
   - {fileID: 901874641}
   - {fileID: 734069201}
   - {fileID: 1882335742}
-  - {fileID: 908651402}
   - {fileID: 311529954}
+  - {fileID: 908651402}
   - {fileID: 916301478}
   - {fileID: 685625386}
   - {fileID: 477564240}
@@ -2544,10 +2557,10 @@ Rigidbody2D:
   m_LinearDrag: 0
   m_AngularDrag: 0.05
   m_GravityScale: 1
-  m_IsKinematic: 1
+  m_IsKinematic: 0
   m_Interpolate: 0
   m_SleepingMode: 1
-  m_CollisionDetection: 0
+  m_CollisionDetection: 1
   m_Constraints: 0
 --- !u!61 &1882335744
 BoxCollider2D:
@@ -2914,32 +2927,33 @@ GameObject:
   m_Component:
   - 4: {fileID: 2100795716}
   - 212: {fileID: 2100795715}
-  - 143: {fileID: 2100795713}
+  - 114: {fileID: 2100795717}
   - 114: {fileID: 2100795714}
+  - 50: {fileID: 2100795713}
   m_Layer: 0
   m_Name: Player
-  m_TagString: Untagged
+  m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!143 &2100795713
-CharacterController:
+--- !u!50 &2100795713
+Rigidbody2D:
+  serializedVersion: 2
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 2100795712}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  serializedVersion: 2
-  m_Height: 2.56
-  m_Radius: 1.28
-  m_SlopeLimit: 45
-  m_StepOffset: 0.3
-  m_SkinWidth: 0.08
-  m_MinMoveDistance: 0.001
-  m_Center: {x: 0, y: 0, z: 0}
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_IsKinematic: 0
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!114 &2100795714
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2951,6 +2965,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0c678be22a6bc834c8d94c980bd631cb, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  movementSpeed: 1
 --- !u!212 &2100795715
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -2993,3 +3008,15 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 3
+--- !u!114 &2100795717
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 2100795712}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1af3fe0972e94c2488ea1202a8083ca5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  bulletPrefab: {fileID: 146280, guid: 244e9edef070c5b49811ee3acd9c17e9, type: 2}
