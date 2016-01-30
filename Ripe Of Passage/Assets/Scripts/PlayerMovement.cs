@@ -9,7 +9,7 @@ public class PlayerMovement : MonoBehaviour
     private CharacterController characterController;
     private float movementSpeed = 8;
     private float jumpPower = 15;
-    private float gravity = 40;
+    private float gravity = 0;
 
 
     void Start()
@@ -21,22 +21,22 @@ public class PlayerMovement : MonoBehaviour
     void Update()
     {
         movementVector.x = Input.GetAxis("LeftJoystickX") * movementSpeed;
-        movementVector.z = Input.GetAxis("LeftJoystickY") * movementSpeed;
+        movementVector.y = Input.GetAxis("LeftJoystickY") * movementSpeed;
         //This turns right or left. I decided to go for a directional approach. 8 directions
-        transform.Rotate(0, 8 * Input.GetAxis("RightJoystickY"), 0);
+        //transform.Rotate(0, 0, 8 * Input.GetAxis("RightJoystickY"));
 
         if (characterController.isGrounded)
         {
-            movementVector.y = 0;
+            movementVector.z = 0;
 
-            if (Input.GetButtonDown("A"))
-            {
-                movementVector.y = jumpPower;
-            }
+			//if (Input.GetButtonDown("A"))
+			//{
+			//	movementVector.y = jumpPower;
+			//}
         }
 
 
-        movementVector.y -= gravity * Time.deltaTime;
+        //movementVector.y -= gravity * Time.deltaTime;
 
         characterController.Move(movementVector * Time.deltaTime);
 
