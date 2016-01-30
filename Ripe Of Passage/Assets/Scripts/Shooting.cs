@@ -25,7 +25,7 @@ public class Shooting : MonoBehaviour {
     {
         //mouse controls
         worldPosition = Camera.main.ScreenPointToRay(Input.mousePosition).GetPoint(cameraDif);
-        worldPosition.z = transform.position.z;
+        worldPosition.y = transform.position.y;
         
 
         Quaternion temp = transform.rotation;
@@ -35,40 +35,32 @@ public class Shooting : MonoBehaviour {
         {
             Debug.Log("Left Mouse Clicked");
             transform.LookAt(worldPosition);
-            Instantiate(bulletPrefab, transform.position + (transform.forward * .8f), transform.rotation);
+            Instantiate(bulletPrefab, transform.position + (transform.forward.normalized * .8f), transform.rotation);
 
         }
         //arrow controls
         if(Input.GetKey(KeyCode.UpArrow)){
             Debug.Log("UpArrow Pressed");
-            worldPosition = Camera.main.ScreenPointToRay(Input.mousePosition).GetPoint(cameraDif);
-            worldPosition.z = transform.position.z;
-            transform.LookAt(worldPosition);
-            Instantiate(bulletPrefab, transform.position + (transform.forward * .8f), transform.rotation);
+            transform.Rotate(-10f, 0f , 0f);
+            Instantiate(bulletPrefab, transform.position + (transform.forward.normalized * .8f), transform.rotation);
         }
         
         if(Input.GetKey(KeyCode.DownArrow)){
             Debug.Log("DownArrow Pressed");
-            worldPosition = Camera.main.ScreenPointToRay(Input.mousePosition).GetPoint(cameraDif);
-            worldPosition.z = transform.position.z;
-            transform.LookAt(worldPosition);
-            Instantiate(bulletPrefab, transform.position + (transform.forward * .8f), transform.rotation);
+            transform.Rotate(10f, 0f, 0f);
+            Instantiate(bulletPrefab, transform.position + (transform.forward.normalized * .8f), transform.rotation);
         }
         
           if(Input.GetKey(KeyCode.RightArrow)){
               Debug.Log("RightArrow Pressed");
-              worldPosition = Camera.main.ScreenPointToRay(Input.mousePosition).GetPoint(cameraDif);
-              worldPosition.z = transform.position.z;
-              transform.LookAt(worldPosition);
-              Instantiate(bulletPrefab, transform.position + (transform.forward * .8f), transform.rotation);
+              transform.Rotate(0f, 10f, 0f);
+              Instantiate(bulletPrefab, transform.position + (transform.forward.normalized * .8f), transform.rotation);
         }
         
           if(Input.GetKey(KeyCode.LeftArrow)){
               Debug.Log("LeftArrow Pressed");
-              worldPosition = Camera.main.ScreenPointToRay(Input.mousePosition).GetPoint(cameraDif);
-              worldPosition.z = transform.position.z;
-              transform.LookAt(worldPosition);
-            Instantiate(bulletPrefab, transform.position + (transform.forward * .8f), transform.rotation);
+              transform.Rotate(0f, -10f, 0f);
+              Instantiate(bulletPrefab, transform.position + (transform.forward.normalized * .8f), transform.rotation);
         }
         
         

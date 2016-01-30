@@ -3,7 +3,7 @@ using System.Collections;
 
 public class Bullet : MonoBehaviour {
 
-    public float speed = 1;
+    public float speed = 1f;
     private GameObject player;
 
 
@@ -14,7 +14,8 @@ public class Bullet : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-        transform.position += transform.forward*speed;
+        transform.position += (transform.forward*speed);
+        transform.position = new Vector3(transform.position.x, transform.position.y, -.5f);
 
         //deletes if bullet is very far away(off screen)
         Vector3 diff = transform.position - player.transform.position;
