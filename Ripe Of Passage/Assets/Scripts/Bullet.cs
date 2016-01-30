@@ -12,17 +12,8 @@ public class Bullet : MonoBehaviour
     void Start()
     {
         player = GameObject.FindGameObjectWithTag("Player");
-<<<<<<< HEAD
 	}
 	
-	// Update is called once per frame
-	void Update () {
-        transform.position += (transform.forward*speed);
-        transform.position = new Vector3(transform.position.x, transform.position.y, -.5f);
-=======
-
-    }
-
     // Update is called once per frame
     void Update()
     {
@@ -33,7 +24,6 @@ public class Bullet : MonoBehaviour
 
 
         transform.position += transform.forward * speed;
->>>>>>> 3349db17d33b16379af0726d1418da0ae5858819
 
         //deletes if bullet is very far away(off screen)
         Vector3 diff = transform.position - player.transform.position;
