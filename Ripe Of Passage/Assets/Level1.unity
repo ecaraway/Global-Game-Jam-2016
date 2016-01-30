@@ -1587,6 +1587,7 @@ GameObject:
   - 114: {fileID: 1143607697}
   - 114: {fileID: 1143607696}
   - 114: {fileID: 1143607695}
+  - 114: {fileID: 1143607704}
   m_Layer: 0
   m_Name: Enemy (1)
   m_TagString: Untagged
@@ -1764,6 +1765,18 @@ SpriteRenderer:
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
+--- !u!114 &1143607704
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1143607693}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d557e52d8a1827a44a645e9548a45cea, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  deadEnemy: {fileID: 0}
 --- !u!1 &1153716802
 GameObject:
   m_ObjectHideFlags: 0
@@ -2195,6 +2208,7 @@ GameObject:
   - 114: {fileID: 1591037176}
   - 114: {fileID: 1591037175}
   - 114: {fileID: 1591037174}
+  - 114: {fileID: 1591037180}
   m_Layer: 0
   m_Name: Enemy
   m_TagString: Untagged
@@ -2372,6 +2386,18 @@ MonoBehaviour:
   - {fileID: 1243001771}
   - {fileID: 1883548073}
   - {fileID: 625573096}
+--- !u!114 &1591037180
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1591037169}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d557e52d8a1827a44a645e9548a45cea, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  deadEnemy: {fileID: 108064, guid: 74774bfdeea0b804cb975d446130b66a, type: 2}
 --- !u!1 &1747626337
 GameObject:
   m_ObjectHideFlags: 0
@@ -2821,6 +2847,7 @@ GameObject:
   - 114: {fileID: 1979371488}
   - 114: {fileID: 1979371487}
   - 114: {fileID: 1979371486}
+  - 114: {fileID: 1979371495}
   m_Layer: 0
   m_Name: Enemy (2)
   m_TagString: Untagged
@@ -2998,6 +3025,18 @@ SpriteRenderer:
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
+--- !u!114 &1979371495
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1979371484}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d557e52d8a1827a44a645e9548a45cea, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  deadEnemy: {fileID: 0}
 --- !u!1 &2100795712
 GameObject:
   m_ObjectHideFlags: 0
@@ -3115,7 +3154,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   bulletPrefab: {fileID: 146280, guid: 244e9edef070c5b49811ee3acd9c17e9, type: 2}
-  bulletSpeed: 100
+  bulletSpeed: 200
 --- !u!1 &2101421964
 GameObject:
   m_ObjectHideFlags: 0
