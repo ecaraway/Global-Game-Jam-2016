@@ -2930,7 +2930,6 @@ GameObject:
   - 143: {fileID: 2100795713}
   - 114: {fileID: 2100795717}
   - 114: {fileID: 2100795714}
-  - 65: {fileID: 2100795718}
   m_Layer: 0
   m_Name: Player
   m_TagString: Player
@@ -3021,15 +3020,3 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   bulletPrefab: {fileID: 146280, guid: 244e9edef070c5b49811ee3acd9c17e9, type: 2}
---- !u!65 &2100795718
-BoxCollider:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 2100795712}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  serializedVersion: 2
-  m_Size: {x: 2.56, y: 2.56, z: 0.2}
-  m_Center: {x: 0, y: 0, z: 0}
