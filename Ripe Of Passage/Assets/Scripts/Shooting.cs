@@ -28,6 +28,7 @@ public class Shooting : MonoBehaviour {
         
 
         Quaternion temp = transform.rotation;
+        
 
         if (Input.GetMouseButtonDown(0))
         {
@@ -38,30 +39,26 @@ public class Shooting : MonoBehaviour {
         }
         //arrow controls
         if(Input.GetKey(KeyCode.UpArrow)){
-            worldPosition = Camera.main.ScreenPointToRay();
-            worldPosition.z = transform.position.z;
             Debug.Log("UpArrow Pressed");
+            transform.LookAt(worldPosition);
             Instantiate(bulletPrefab, transform.position + (transform.forward * .8f), transform.rotation);
         }
         
         if(Input.GetKey(KeyCode.DownArrow)){
-            worldPosition = Camera.main.ScreenPointToRay();
-            worldPosition.z = transform.position.z;
             Debug.Log("DownArrow Pressed");
+            transform.LookAt(worldPosition);
             Instantiate(bulletPrefab, transform.position + (transform.forward * .8f), transform.rotation);
         }
         
           if(Input.GetKey(KeyCode.RightArrow)){
-            worldPosition = Camera.main.ScreenPointToRay();
-            worldPosition.z = transform.position.z;
-            Debug.Log("RightArrow Pressed");
+              Debug.Log("RightArrow Pressed");
+              transform.LookAt(worldPosition);
             Instantiate(bulletPrefab, transform.position + (transform.forward * .8f), transform.rotation);
         }
         
           if(Input.GetKey(KeyCode.LeftArrow)){
-            worldPosition = Camera.main.ScreenPointToRay();
-            worldPosition.z = transform.position.z;
-            Debug.Log("LeftArrow Pressed");
+              Debug.Log("LeftArrow Pressed");
+              transform.LookAt(worldPosition);
             Instantiate(bulletPrefab, transform.position + (transform.forward * .8f), transform.rotation);
         }
 

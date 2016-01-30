@@ -23,7 +23,7 @@ public class PlayerMovement : MonoBehaviour
 
     void Update()
     {
-        rig.velocity = new Vector2(0, 0);
+        
         //for controller movement
         movementVector.x = Input.GetAxis("LeftJoystickX") * movementSpeed;
         movementVector.y = Input.GetAxis("LeftJoystickY") * movementSpeed;
