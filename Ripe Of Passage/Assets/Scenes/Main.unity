@@ -568,7 +568,6 @@ GameObject:
   - 135: {fileID: 1268466754}
   - 23: {fileID: 1268466753}
   - 114: {fileID: 1268466752}
-  - 114: {fileID: 1268466757}
   m_Layer: 0
   m_Name: Player
   m_TagString: Player
@@ -582,13 +581,12 @@ MonoBehaviour:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1268466751}
-  m_Enabled: 0
+  m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 1af3fe0972e94c2488ea1202a8083ca5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   bulletPrefab: {fileID: 146280, guid: 244e9edef070c5b49811ee3acd9c17e9, type: 2}
-  bulletSpeed: 10
 --- !u!23 &1268466753
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -646,19 +644,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 6
---- !u!114 &1268466757
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1268466751}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 9bd05060114367c45bc61b67d3b1982a, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  bullet: {fileID: 146280, guid: 244e9edef070c5b49811ee3acd9c17e9, type: 2}
-  speed: 1
 --- !u!1 &1386705728
 GameObject:
   m_ObjectHideFlags: 0
