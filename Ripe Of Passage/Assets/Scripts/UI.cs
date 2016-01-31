@@ -8,7 +8,7 @@ public class UI : MonoBehaviour {
 
 	void Start ()
     {
-        scroll.SetActive(false);
+        scroll.SetActive(true);
 	}
 
 	void Update ()

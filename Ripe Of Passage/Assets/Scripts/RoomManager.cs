@@ -1,10 +1,13 @@
 ﻿using UnityEngine;
+using UnityEngine.UI;
 using System.Collections;
 
 public class RoomManager : MonoBehaviour 
 {
 	public int enemies;
 	public GameObject arrow;
+	public Image scroll;
+	public Sprite replace;
 	[HideInInspector]
 	public bool levelClear = false;
 
@@ -24,6 +27,7 @@ public class RoomManager : MonoBehaviour
 		{
 			arrow.SetActive ( true );
 			levelClear = true;
+			scroll.sprite = replace;
 		}
 	}
 }
