@@ -1,4 +1,5 @@
 ﻿using UnityEngine;
+using UnityEngine.SceneManagement;
 using System.Collections;
 
 public class CutsceneAudio : MonoBehaviour {
@@ -45,5 +46,8 @@ public class CutsceneAudio : MonoBehaviour {
 				a4HasPlayed = true;
 			}
 		}
+
+		if ( a4HasPlayed && !audSource.isPlaying )
+			SceneManager.LoadScene ( "Instructions" );
 	}
 }
