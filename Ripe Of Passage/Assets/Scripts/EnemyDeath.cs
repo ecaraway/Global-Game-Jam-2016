@@ -5,10 +5,13 @@ public class EnemyDeath : MonoBehaviour {
 
     [SerializeField]
     private GameObject deadEnemy;
+    private GameManager gm;
+
 
 	// Use this for initialization
 	void Start () {
-	
+        gm.numOfEnemies++;
+
 	}
 	
 	// Update is called once per frame
@@ -20,7 +23,7 @@ public class EnemyDeath : MonoBehaviour {
     {
         if (col.gameObject.name == "Bullet(Clone)")
         {
-            Debug.Log("Enemy hit by bullet");
+            Debug.Log("Enemy hit by bullet");        
             Destroy(gameObject);
             Instantiate(deadEnemy, transform.position, Quaternion.identity);
         }
