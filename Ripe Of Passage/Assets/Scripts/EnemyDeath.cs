@@ -6,6 +6,8 @@ public class EnemyDeath : MonoBehaviour {
     [SerializeField]
     private GameObject deadEnemy;
 
+	public RoomManager room;
+
 	// Use this for initialization
 	void Start () {
 	
@@ -21,6 +23,7 @@ public class EnemyDeath : MonoBehaviour {
         if (col.gameObject.name == "Bullet(Clone)")
         {
             Debug.Log("Enemy hit by bullet");
+			room.OnEnemyKill ( );
             Destroy(gameObject);
             Instantiate(deadEnemy, transform.position, Quaternion.identity);
         }
