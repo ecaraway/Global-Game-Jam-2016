@@ -29,7 +29,7 @@ AnimatorState:
   m_PrefabInternal: {fileID: 0}
   m_Name: Daikon
   m_Speed: 1
-  m_CycleOffset: 0
+  m_CycleOffset: 1
   m_Transitions: []
   m_StateMachineBehaviours: []
   m_Position: {x: 50, y: 50, z: 0}
@@ -54,7 +54,7 @@ AnimatorStateMachine:
   m_ChildStates:
   - serializedVersion: 1
     m_State: {fileID: 110246092}
-    m_Position: {x: 200, y: 0, z: 0}
+    m_Position: {x: 252, y: 36, z: 0}
   m_ChildStateMachines: []
   m_AnyStateTransitions: []
   m_EntryTransitions: []

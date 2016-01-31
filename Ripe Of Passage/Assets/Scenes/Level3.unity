@@ -2186,7 +2186,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   room: {fileID: 1194902931}
-  NextLevel: 
+  NextLevel: Ending
 --- !u!1001 &534802828
 Prefab:
   m_ObjectHideFlags: 0
