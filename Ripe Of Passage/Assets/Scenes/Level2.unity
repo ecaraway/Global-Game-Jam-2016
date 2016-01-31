@@ -167,6 +167,7 @@ MonoBehaviour:
   slowRadius: 1
   timeToTarget: 0.1
   turnSpeed: 20
+  rotation: 0
   smoothing: 1
   numSamplesForSmoothing: 5
 --- !u!114 &38022440
@@ -914,6 +915,7 @@ MonoBehaviour:
   slowRadius: 1
   timeToTarget: 0.1
   turnSpeed: 20
+  rotation: 0
   smoothing: 1
   numSamplesForSmoothing: 5
 --- !u!114 &565429552
@@ -1170,6 +1172,7 @@ MonoBehaviour:
   slowRadius: 1
   timeToTarget: 0.1
   turnSpeed: 20
+  rotation: 0
   smoothing: 1
   numSamplesForSmoothing: 5
 --- !u!114 &625726897
@@ -2086,6 +2089,7 @@ MonoBehaviour:
   slowRadius: 1
   timeToTarget: 0.1
   turnSpeed: 20
+  rotation: 0
   smoothing: 1
   numSamplesForSmoothing: 5
 --- !u!114 &1143607698
@@ -2829,6 +2833,7 @@ MonoBehaviour:
   slowRadius: 1
   timeToTarget: 0.1
   turnSpeed: 20
+  rotation: 0
   smoothing: 1
   numSamplesForSmoothing: 5
 --- !u!114 &1591037177
@@ -3501,6 +3506,7 @@ MonoBehaviour:
   slowRadius: 1
   timeToTarget: 0.1
   turnSpeed: 20
+  rotation: 0
   smoothing: 1
   numSamplesForSmoothing: 5
 --- !u!114 &1979371489
@@ -3894,4 +3900,3 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   bulletPrefab: {fileID: 146280, guid: 244e9edef070c5b49811ee3acd9c17e9, type: 2}
-  bulletSpeed: 200

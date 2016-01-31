@@ -1,0 +1,1095 @@
+fileFormatVersion: 2
+guid: 73b0cf81acb7c694cacfb1996e449fac
+timeCreated: 1454190797
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: goth carrot diagnol down_0
+    21300002: goth carrot diagnol down_1
+    21300004: goth carrot diagnol down_2
+    21300006: goth carrot diagnol down_3
+    21300008: goth carrot diagnol down_4
+    21300010: goth carrot diagnol down_5
+    21300012: goth carrot diagnol down_6
+    21300014: goth carrot diagnol down_7
+    21300016: goth carrot diagnol down_8
+    21300018: goth carrot diagnol down_9
+    21300020: goth carrot diagnol down_10
+    21300022: goth carrot diagnol down_11
+    21300024: goth carrot diagnol down_12
+    21300026: goth carrot diagnol down_13
+    21300028: goth carrot diagnol down_14
+    21300030: goth carrot diagnol down_15
+    21300032: goth carrot diagnol down_16
+    21300034: goth carrot diagnol down_17
+    21300036: goth carrot diagnol down_18
+    21300038: goth carrot diagnol down_19
+    21300040: goth carrot diagnol down_20
+    21300042: goth carrot diagnol down_21
+    21300044: goth carrot diagnol down_22
+    21300046: goth carrot diagnol down_23
+    21300048: goth carrot diagnol down_24
+    21300050: goth carrot diagnol down_25
+    21300052: goth carrot diagnol down_26
+    21300054: goth carrot diagnol down_27
+    21300056: goth carrot diagnol down_28
+    21300058: goth carrot diagnol down_29
+    21300060: goth carrot diagnol down_30
+    21300062: goth carrot diagnol down_31
+    21300064: goth carrot diagnol down_32
+    21300066: goth carrot diagnol down_33
+    21300068: goth carrot diagnol down_34
+    21300070: goth carrot diagnol down_35
+    21300072: goth carrot diagnol down_36
+    21300074: goth carrot diagnol down_37
+    21300076: goth carrot diagnol down_38
+    21300078: goth carrot diagnol down_39
+    21300080: goth carrot diagnol down_40
+    21300082: goth carrot diagnol down_41
+    21300084: goth carrot diagnol down_42
+    21300086: goth carrot diagnol down_43
+    21300088: goth carrot diagnol down_44
+    21300090: goth carrot diagnol down_45
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: goth carrot diagnol down_0
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 3397
+        width: 123
+        height: 359
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29.077408, y: 96.81372}
+        - {x: -33.077408, y: 80.81372}
+        - {x: -33.077408, y: -5.1862793}
+        - {x: -28.077408, y: -39.18628}
+        - {x: -21.077408, y: -43.18628}
+        - {x: -18.077408, y: -39.18628}
+        - {x: -17.077408, y: -36.18628}
+        - {x: -17.077408, y: -33.18628}
+        - {x: -18.077408, y: -42.18628}
+        - {x: -17.077408, y: -48.18628}
+        - {x: -14.077408, y: -87.18628}
+        - {x: -9.077408, y: -96.18628}
+        - {x: 24.922592, y: -96.18628}
+        - {x: 33.922592, y: -15.186279}
+        - {x: 33.922592, y: 86.81372}
+        - {x: 14.922592, y: 96.81372}
+    - name: goth carrot diagnol down_1
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 3397
+        width: 121
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11.560669, y: 96.31372}
+        - {x: -22.439331, y: 96.31372}
+        - {x: -32.43933, y: 82.31372}
+        - {x: -32.43933, y: -27.68628}
+        - {x: -14.439331, y: -90.68628}
+        - {x: -6.439331, y: -95.68628}
+        - {x: -0.43933105, y: -83.68628}
+        - {x: 6.560669, y: -94.68628}
+        - {x: 8.560669, y: -95.68628}
+        - {x: 19.560669, y: -95.68628}
+        - {x: 23.560669, y: -91.68628}
+        - {x: 33.56067, y: 7.3137207}
+        - {x: 33.56067, y: 70.31372}
+    - name: goth carrot diagnol down_2
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 3399
+        width: 123
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 34.127594, y: 73.88489}
+        - {x: 13.127594, y: 95.88489}
+        - {x: -23.872406, y: 95.88489}
+        - {x: -32.872406, y: 88.88489}
+        - {x: -32.872406, y: -17.115112}
+        - {x: -19.872406, y: -95.11511}
+        - {x: -6.872406, y: -95.11511}
+        - {x: -4.872406, y: -93.11511}
+        - {x: -2.872406, y: -84.11511}
+        - {x: 11.127594, y: -95.11511}
+        - {x: 18.127594, y: -95.11511}
+        - {x: 21.127594, y: -92.11511}
+        - {x: 31.127594, y: -25.115112}
+        - {x: 34.127594, y: 17.884888}
+    - name: goth carrot diagnol down_3
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 3401
+        width: 123
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.269897, y: 95.456055}
+        - {x: -33.269897, y: 90.456055}
+        - {x: -33.269897, y: -38.543945}
+        - {x: -26.269897, y: -94.543945}
+        - {x: -8.269897, y: -94.543945}
+        - {x: -5.2698975, y: -88.543945}
+        - {x: -5.2698975, y: -84.543945}
+        - {x: 9.730103, y: -94.543945}
+        - {x: 19.730103, y: -94.543945}
+        - {x: 33.730103, y: -59.543945}
+        - {x: 33.730103, y: 80.456055}
+        - {x: 27.730103, y: 95.456055}
+    - name: goth carrot diagnol down_4
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 3401
+        width: 121
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.631836, y: 95.456055}
+        - {x: -32.631836, y: 83.456055}
+        - {x: -32.631836, y: -2.5439453}
+        - {x: -25.631836, y: -39.543945}
+        - {x: -18.631836, y: -42.543945}
+        - {x: -17.631836, y: -40.543945}
+        - {x: -16.631836, y: -36.543945}
+        - {x: -16.631836, y: -38.543945}
+        - {x: -17.631836, y: -39.543945}
+        - {x: -17.631836, y: -43.543945}
+        - {x: -18.631836, y: -71.543945}
+        - {x: -18.631836, y: -91.543945}
+        - {x: -12.631836, y: -94.543945}
+        - {x: -9.631836, y: -94.543945}
+        - {x: -5.631836, y: -86.543945}
+        - {x: 9.368164, y: -93.543945}
+        - {x: 12.368164, y: -94.543945}
+        - {x: 22.368164, y: -94.543945}
+        - {x: 33.368164, y: -78.543945}
+        - {x: 33.368164, y: 95.456055}
+    - name: goth carrot diagnol down_5
+      rect:
+        serializedVersion: 2
+        x: 1390
+        y: 3403
+        width: 123
+        height: 351
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 30.93512, y: 71.0271}
+        - {x: 11.93512, y: 95.0271}
+        - {x: -24.06488, y: 95.0271}
+        - {x: -29.06488, y: 94.0271}
+        - {x: -33.06488, y: 82.0271}
+        - {x: -33.06488, y: 14.0271}
+        - {x: -30.06488, y: -45.9729}
+        - {x: -17.06488, y: -93.9729}
+        - {x: -11.06488, y: -93.9729}
+        - {x: -7.0648804, y: -88.9729}
+        - {x: 3.9351196, y: -93.9729}
+        - {x: 20.93512, y: -93.9729}
+        - {x: 23.93512, y: -75.9729}
+        - {x: 33.93512, y: 27.0271}
+        - {x: 33.93512, y: 66.0271}
+    - name: goth carrot diagnol down_6
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 2927
+        width: 123
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16.922592, y: 94.09827}
+        - {x: -31.077408, y: 94.09827}
+        - {x: -33.077408, y: 88.09827}
+        - {x: -33.077408, y: -35.901733}
+        - {x: -23.077408, y: -91.90173}
+        - {x: -21.077408, y: -92.90173}
+        - {x: 27.922592, y: -92.90173}
+        - {x: 33.922592, y: -47.901733}
+        - {x: 33.922592, y: 68.09827}
+    - name: goth carrot diagnol down_7
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 2927
+        width: 121
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13.560669, y: 94.09827}
+        - {x: -32.43933, y: 94.09827}
+        - {x: -32.43933, y: -7.9017334}
+        - {x: -24.439331, y: -72.90173}
+        - {x: -19.439331, y: -92.90173}
+        - {x: 26.560669, y: -92.90173}
+        - {x: 33.56067, y: -24.901733}
+        - {x: 33.56067, y: 84.09827}
+    - name: goth carrot diagnol down_8
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 2927
+        width: 123
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32.872406, y: 94.09827}
+        - {x: -32.872406, y: -21.901733}
+        - {x: -26.872406, y: -92.90173}
+        - {x: 34.127594, y: -92.90173}
+        - {x: 34.127594, y: 79.09827}
+        - {x: 21.127594, y: 94.09827}
+    - name: goth carrot diagnol down_9
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 2927
+        width: 123
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23.730103, y: 94.09827}
+        - {x: -28.269897, y: 94.09827}
+        - {x: -33.269897, y: 80.09827}
+        - {x: -33.269897, y: -35.901733}
+        - {x: -24.269897, y: -85.90173}
+        - {x: -21.269897, y: -92.90173}
+        - {x: 26.730103, y: -92.90173}
+        - {x: 33.730103, y: -55.901733}
+        - {x: 33.730103, y: 77.09827}
+    - name: goth carrot diagnol down_10
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 2927
+        width: 121
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 33.368164, y: 94.09827}
+        - {x: -32.631836, y: 94.09827}
+        - {x: -32.631836, y: -2.9017334}
+        - {x: -28.631836, y: -70.90173}
+        - {x: -23.631836, y: -92.90173}
+        - {x: -16.631836, y: -92.90173}
+        - {x: -11.631836, y: -85.90173}
+        - {x: 11.368164, y: -92.90173}
+        - {x: 33.368164, y: -92.90173}
+    - name: goth carrot diagnol down_11
+      rect:
+        serializedVersion: 2
+        x: 1390
+        y: 2927
+        width: 123
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.06488, y: 94.09827}
+        - {x: -33.06488, y: 89.09827}
+        - {x: -33.06488, y: -92.90173}
+        - {x: 30.93512, y: -92.90173}
+        - {x: 33.93512, y: -64.90173}
+        - {x: 33.93512, y: 77.09827}
+        - {x: 10.93512, y: 94.09827}
+    - name: goth carrot diagnol down_12
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 2449
+        width: 123
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 27.922592, y: -77.90173}
+        - {x: 33.922592, y: -34.901733}
+        - {x: 33.922592, y: 68.09827}
+        - {x: 19.922592, y: 94.09827}
+        - {x: -25.077408, y: 94.09827}
+        - {x: -33.077408, y: 88.09827}
+        - {x: -33.077408, y: -86.90173}
+        - {x: -25.077408, y: -92.90173}
+        - {x: -12.077408, y: -92.90173}
+        - {x: -9.077408, y: -83.90173}
+        - {x: 9.922592, y: -92.90173}
+        - {x: 24.922592, y: -92.90173}
+    - name: goth carrot diagnol down_13
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 2449
+        width: 121
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29.439331, y: 94.09827}
+        - {x: -32.43933, y: 93.09827}
+        - {x: -32.43933, y: -73.90173}
+        - {x: -29.439331, y: -92.90173}
+        - {x: 31.560669, y: -92.90173}
+        - {x: 33.56067, y: -77.90173}
+        - {x: 33.56067, y: 76.09827}
+        - {x: 23.560669, y: 94.09827}
+    - name: goth carrot diagnol down_14
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 2447
+        width: 123
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 34.127594, y: -46.47278}
+        - {x: 34.127594, y: 74.52722}
+        - {x: 24.127594, y: 94.52722}
+        - {x: -30.872406, y: 94.52722}
+        - {x: -32.872406, y: 81.52722}
+        - {x: -32.872406, y: 7.5272217}
+        - {x: -19.872406, y: -90.47278}
+        - {x: -16.872406, y: -93.47278}
+        - {x: -10.872406, y: -93.47278}
+        - {x: -7.872406, y: -88.47278}
+        - {x: 4.127594, y: -93.47278}
+        - {x: 24.127594, y: -93.47278}
+    - name: goth carrot diagnol down_15
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 2447
+        width: 123
+        height: 351
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 33.730103, y: 95.02722}
+        - {x: -33.269897, y: 95.02722}
+        - {x: -33.269897, y: -88.97278}
+        - {x: -27.269897, y: -93.97278}
+        - {x: -10.269897, y: -93.97278}
+        - {x: -4.2698975, y: -85.97278}
+        - {x: 11.730103, y: -93.97278}
+        - {x: 33.730103, y: -93.97278}
+    - name: goth carrot diagnol down_16
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 2445
+        width: 121
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.631836, y: 95.456055}
+        - {x: -32.631836, y: 86.456055}
+        - {x: -32.631836, y: -9.543945}
+        - {x: -24.631836, y: -94.543945}
+        - {x: 22.368164, y: -94.543945}
+        - {x: 33.368164, y: -39.543945}
+        - {x: 33.368164, y: 73.456055}
+        - {x: 20.368164, y: 95.456055}
+    - name: goth carrot diagnol down_17
+      rect:
+        serializedVersion: 2
+        x: 1390
+        y: 2443
+        width: 123
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.06488, y: 95.88489}
+        - {x: -33.06488, y: 79.88489}
+        - {x: -33.06488, y: -95.11511}
+        - {x: 33.93512, y: -95.11511}
+        - {x: 33.93512, y: 71.88489}
+        - {x: 18.93512, y: 95.88489}
+    - name: goth carrot diagnol down_18
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 1965
+        width: 123
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.077408, y: 95.88489}
+        - {x: -33.077408, y: 92.88489}
+        - {x: -33.077408, y: -28.115112}
+        - {x: -18.077408, y: -95.11511}
+        - {x: 23.922592, y: -95.11511}
+        - {x: 25.922592, y: -94.11511}
+        - {x: 33.922592, y: -26.115112}
+        - {x: 33.922592, y: 77.88489}
+        - {x: 19.922592, y: 95.88489}
+    - name: goth carrot diagnol down_19
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 1963
+        width: 121
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32.43933, y: 96.31372}
+        - {x: -32.43933, y: -20.68628}
+        - {x: -20.439331, y: -95.68628}
+        - {x: -7.439331, y: -95.68628}
+        - {x: -6.439331, y: -94.68628}
+        - {x: -2.439331, y: -88.68628}
+        - {x: 6.560669, y: -95.68628}
+        - {x: 20.560669, y: -95.68628}
+        - {x: 33.56067, y: -33.68628}
+        - {x: 33.56067, y: 87.31372}
+        - {x: 14.560669, y: 96.31372}
+    - name: goth carrot diagnol down_20
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 1963
+        width: 123
+        height: 359
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.872406, y: 96.81372}
+        - {x: -32.872406, y: 89.81372}
+        - {x: -32.872406, y: -33.18628}
+        - {x: -23.872406, y: -95.18628}
+        - {x: -21.872406, y: -96.18628}
+        - {x: 23.127594, y: -96.18628}
+        - {x: 34.127594, y: -41.18628}
+        - {x: 34.127594, y: 72.81372}
+        - {x: 22.127594, y: 96.81372}
+    - name: goth carrot diagnol down_21
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 1962
+        width: 123
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33.269897, y: 97.2782}
+        - {x: -33.269897, y: -69.7218}
+        - {x: -15.269897, y: -95.7218}
+        - {x: 23.730103, y: -95.7218}
+        - {x: 33.730103, y: -38.7218}
+        - {x: 33.730103, y: 95.2782}
+        - {x: 29.730103, y: 97.2782}
+    - name: goth carrot diagnol down_22
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 1962
+        width: 121
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13.368164, y: 97.2782}
+        - {x: -24.631836, y: 97.2782}
+        - {x: -31.631836, y: 96.2782}
+        - {x: -32.631836, y: 91.2782}
+        - {x: -32.631836, y: -13.721802}
+        - {x: -31.631836, y: -37.7218}
+        - {x: -23.631836, y: -39.7218}
+        - {x: -11.631836, y: -94.7218}
+        - {x: -10.631836, y: -95.7218}
+        - {x: 25.368164, y: -95.7218}
+        - {x: 33.368164, y: -32.7218}
+        - {x: 33.368164, y: 72.2782}
+        - {x: 32.368164, y: 74.2782}
+    - name: goth carrot diagnol down_23
+      rect:
+        serializedVersion: 2
+        x: 1390
+        y: 1962
+        width: 123
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33.06488, y: 97.2782}
+        - {x: -33.06488, y: -86.7218}
+        - {x: -32.06488, y: -95.7218}
+        - {x: 17.93512, y: -95.7218}
+        - {x: 33.93512, y: -58.7218}
+        - {x: 33.93512, y: 88.2782}
+        - {x: 12.93512, y: 97.2782}
+    - name: goth carrot diagnol down_24
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 1484
+        width: 123
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.077408, y: 97.2782}
+        - {x: -33.077408, y: 91.2782}
+        - {x: -33.077408, y: -52.7218}
+        - {x: -7.077408, y: -95.7218}
+        - {x: -6.077408, y: -95.7218}
+        - {x: 0.92259216, y: -89.7218}
+        - {x: 0.92259216, y: -80.7218}
+        - {x: -0.07740784, y: -73.7218}
+        - {x: 0.92259216, y: -80.7218}
+        - {x: 1.9225922, y: -93.7218}
+        - {x: 3.9225922, y: -95.7218}
+        - {x: 18.922592, y: -95.7218}
+        - {x: 33.922592, y: -23.721802}
+        - {x: 33.922592, y: 89.2782}
+        - {x: 15.922592, y: 97.2782}
+    - name: goth carrot diagnol down_25
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 1485
+        width: 125
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 30.418411, y: 88.31378}
+        - {x: 12.418411, y: 96.31378}
+        - {x: -31.581589, y: 96.31378}
+        - {x: -33.58159, y: 94.31378}
+        - {x: -33.58159, y: -51.68622}
+        - {x: -10.581589, y: -88.68622}
+        - {x: 0.41841125, y: -93.68622}
+        - {x: 2.4184113, y: -87.68622}
+        - {x: 2.4184113, y: -80.68622}
+        - {x: 2.4184113, y: -92.68622}
+        - {x: 4.4184113, y: -95.68622}
+        - {x: 11.418411, y: -95.68622}
+        - {x: 14.418411, y: -90.68622}
+        - {x: 34.41841, y: -34.68622}
+        - {x: 34.41841, y: 74.31378}
+    - name: goth carrot diagnol down_26
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 1485
+        width: 129
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.585785, y: 95.81378}
+        - {x: -34.585785, y: -70.18622}
+        - {x: -15.585785, y: -95.18622}
+        - {x: 17.414215, y: -95.18622}
+        - {x: 35.414215, y: -73.18622}
+        - {x: 35.414215, y: 83.81378}
+        - {x: 32.414215, y: 95.81378}
+    - name: goth carrot diagnol down_27
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 1485
+        width: 134
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36.161102, y: -62.18622}
+        - {x: -14.161102, y: -95.18622}
+        - {x: 23.838898, y: -95.18622}
+        - {x: 36.838898, y: -82.18622}
+        - {x: 36.838898, y: 76.81378}
+        - {x: 29.838898, y: 95.81378}
+        - {x: -32.161102, y: 95.81378}
+        - {x: -36.161102, y: 61.81378}
+    - name: goth carrot diagnol down_28
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 1485
+        width: 140
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16.334717, y: 95.81378}
+        - {x: -32.665283, y: 95.81378}
+        - {x: -37.665283, y: 46.81378}
+        - {x: -37.665283, y: -47.18622}
+        - {x: 2.3347168, y: -95.18622}
+        - {x: 10.334717, y: -95.18622}
+        - {x: 11.334717, y: -94.18622}
+        - {x: 38.334717, y: -40.18622}
+        - {x: 38.334717, y: 65.81378}
+        - {x: 34.334717, y: 73.81378}
+    - name: goth carrot diagnol down_29
+      rect:
+        serializedVersion: 2
+        x: 1373
+        y: 1487
+        width: 145
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16.330505, y: 95.38489}
+        - {x: -33.669495, y: 95.38489}
+        - {x: -38.669495, y: 56.384888}
+        - {x: -38.669495, y: -35.615112}
+        - {x: -34.669495, y: -34.615112}
+        - {x: -24.669495, y: -27.615112}
+        - {x: -22.669495, y: -24.615112}
+        - {x: -8.669495, y: -74.61511}
+        - {x: -0.6694946, y: -94.61511}
+        - {x: 9.330505, y: -94.61511}
+        - {x: 11.330505, y: -89.61511}
+        - {x: 39.330505, y: -34.615112}
+        - {x: 39.330505, y: 65.38489}
+    - name: goth carrot diagnol down_30
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1009
+        width: 153
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 40.140167, y: 65.38495}
+        - {x: 21.140167, y: 95.38495}
+        - {x: -32.859833, y: 95.38495}
+        - {x: -35.859833, y: 94.38495}
+        - {x: -40.859833, y: 0.38494873}
+        - {x: -40.859833, y: -33.61505}
+        - {x: -14.859833, y: -78.61505}
+        - {x: 0.14016724, y: -94.61505}
+        - {x: 19.140167, y: -94.61505}
+        - {x: 42.140167, y: -37.61505}
+        - {x: 42.140167, y: 53.38495}
+    - name: goth carrot diagnol down_31
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 1009
+        width: 146
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 39.884933, y: 64.38495}
+        - {x: 13.884933, y: 95.38495}
+        - {x: -32.115067, y: 95.38495}
+        - {x: -39.115067, y: 73.38495}
+        - {x: -39.115067, y: -71.61505}
+        - {x: -6.1150665, y: -94.61505}
+        - {x: 9.884933, y: -94.61505}
+        - {x: 13.884933, y: -87.61505}
+        - {x: 39.884933, y: -42.61505}
+    - name: goth carrot diagnol down_32
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 1009
+        width: 139
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.3703, y: 95.38495}
+        - {x: -36.3703, y: 90.38495}
+        - {x: -37.3703, y: 79.38495}
+        - {x: -37.3703, y: -53.61505}
+        - {x: -10.3703, y: -94.61505}
+        - {x: 36.6297, y: -94.61505}
+        - {x: 37.6297, y: -90.61505}
+        - {x: 37.6297, y: 95.38495}
+    - name: goth carrot diagnol down_33
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 1008
+        width: 134
+        height: 354
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29.161102, y: 96.349365}
+        - {x: -36.161102, y: 65.349365}
+        - {x: -36.161102, y: -62.650635}
+        - {x: -15.161102, y: -94.650635}
+        - {x: 12.838898, y: -94.650635}
+        - {x: 36.838898, y: -46.650635}
+        - {x: 36.838898, y: 84.349365}
+        - {x: 13.838898, y: 96.349365}
+    - name: goth carrot diagnol down_34
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 1007
+        width: 129
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32.91632, y: 95.81378}
+        - {x: -34.91632, y: 83.81378}
+        - {x: -34.91632, y: -66.18622}
+        - {x: -4.916321, y: -93.18622}
+        - {x: -0.9163208, y: -95.18622}
+        - {x: 13.083679, y: -95.18622}
+        - {x: 35.08368, y: -48.18622}
+        - {x: 35.08368, y: 89.81378}
+        - {x: 24.08368, y: 95.81378}
+    - name: goth carrot diagnol down_35
+      rect:
+        serializedVersion: 2
+        x: 1388
+        y: 1007
+        width: 125
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 31.364014, y: 72.31378}
+        - {x: 12.364014, y: 96.31378}
+        - {x: -29.635986, y: 96.31378}
+        - {x: -33.635986, y: 70.31378}
+        - {x: -33.635986, y: -45.68622}
+        - {x: -7.6359863, y: -95.68622}
+        - {x: -4.6359863, y: -95.68622}
+        - {x: 1.3640137, y: -89.68622}
+        - {x: 2.3640137, y: -86.68622}
+        - {x: 2.3640137, y: -79.68622}
+        - {x: 1.3640137, y: -73.68622}
+        - {x: 2.3640137, y: -77.68622}
+        - {x: 2.3640137, y: -92.68622}
+        - {x: 5.3640137, y: -95.68622}
+        - {x: 12.364014, y: -95.68622}
+        - {x: 34.364014, y: -34.68622}
+        - {x: 34.364014, y: 67.31378}
+    - name: goth carrot diagnol down_36
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 529
+        width: 123
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.077408, y: 96.31381}
+        - {x: -33.077408, y: 91.31381}
+        - {x: -33.077408, y: -62.686188}
+        - {x: -16.077408, y: -95.68619}
+        - {x: 18.922592, y: -95.68619}
+        - {x: 33.922592, y: -53.686188}
+        - {x: 33.922592, y: 89.31381}
+        - {x: 15.922592, y: 96.31381}
+    - name: goth carrot diagnol down_37
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 529
+        width: 121
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32.43933, y: 96.31381}
+        - {x: -32.43933, y: -58.686188}
+        - {x: -6.439331, y: -94.68619}
+        - {x: -3.439331, y: -92.68619}
+        - {x: -0.43933105, y: -89.68619}
+        - {x: 1.560669, y: -82.68619}
+        - {x: 3.560669, y: -94.68619}
+        - {x: 3.560669, y: -95.68619}
+        - {x: 29.560669, y: -95.68619}
+        - {x: 33.56067, y: -92.68619}
+        - {x: 33.56067, y: 89.31381}
+        - {x: 31.560669, y: 96.31381}
+    - name: goth carrot diagnol down_38
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 529
+        width: 123
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.872406, y: 96.31381}
+        - {x: -32.872406, y: 79.31381}
+        - {x: -32.872406, y: -41.686188}
+        - {x: -11.872406, y: -95.68619}
+        - {x: 21.127594, y: -95.68619}
+        - {x: 34.127594, y: -61.686188}
+        - {x: 34.127594, y: 76.31381}
+        - {x: 13.127594, y: 96.31381}
+    - name: goth carrot diagnol down_39
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 528
+        width: 123
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.269897, y: 97.27823}
+        - {x: -33.269897, y: 83.27823}
+        - {x: -33.269897, y: -40.72177}
+        - {x: -23.269897, y: -40.72177}
+        - {x: -20.269897, y: -35.72177}
+        - {x: -12.269897, y: -89.72177}
+        - {x: -5.2698975, y: -94.72177}
+        - {x: -0.26989746, y: -86.72177}
+        - {x: 6.7301025, y: -95.72177}
+        - {x: 18.730103, y: -95.72177}
+        - {x: 33.730103, y: -20.721771}
+        - {x: 33.730103, y: 79.27823}
+        - {x: 8.730103, y: 97.27823}
+    - name: goth carrot diagnol down_40
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 528
+        width: 121
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30.631836, y: 97.77823}
+        - {x: -32.631836, y: 92.77823}
+        - {x: -32.631836, y: -26.221771}
+        - {x: -14.631836, y: -93.22177}
+        - {x: -5.631836, y: -94.22177}
+        - {x: -2.631836, y: -89.22177}
+        - {x: -1.6318359, y: -84.22177}
+        - {x: 7.368164, y: -94.22177}
+        - {x: 9.368164, y: -96.22177}
+        - {x: 33.368164, y: -96.22177}
+        - {x: 33.368164, y: 97.77823}
+    - name: goth carrot diagnol down_41
+      rect:
+        serializedVersion: 2
+        x: 1390
+        y: 528
+        width: 123
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.06488, y: 97.77823}
+        - {x: -33.06488, y: 86.77823}
+        - {x: -33.06488, y: 17.778229}
+        - {x: -31.06488, y: -41.22177}
+        - {x: -11.06488, y: -96.22177}
+        - {x: -10.06488, y: -96.22177}
+        - {x: -5.0648804, y: -94.22177}
+        - {x: -1.0648804, y: -88.22177}
+        - {x: -1.0648804, y: -71.22177}
+        - {x: 5.9351196, y: -91.22177}
+        - {x: 8.93512, y: -96.22177}
+        - {x: 19.93512, y: -96.22177}
+        - {x: 33.93512, y: -37.22177}
+        - {x: 33.93512, y: 87.77823}
+        - {x: 10.93512, y: 97.77823}
+    - name: goth carrot diagnol down_42
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 50
+        width: 123
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30.077408, y: -96.221756}
+        - {x: 24.922592, y: -96.221756}
+        - {x: 33.922592, y: -82.221756}
+        - {x: 33.922592, y: 89.778244}
+        - {x: 30.922592, y: 97.778244}
+        - {x: -33.077408, y: 97.778244}
+        - {x: -33.077408, y: -70.221756}
+    - name: goth carrot diagnol down_43
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 50
+        width: 121
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30.439331, y: 97.778244}
+        - {x: -32.43933, y: 92.778244}
+        - {x: -32.43933, y: -26.221756}
+        - {x: -14.439331, y: -93.221756}
+        - {x: -5.439331, y: -94.221756}
+        - {x: -2.439331, y: -89.221756}
+        - {x: -1.439331, y: -84.221756}
+        - {x: 7.560669, y: -94.221756}
+        - {x: 9.560669, y: -96.221756}
+        - {x: 33.56067, y: -96.221756}
+        - {x: 33.56067, y: 97.778244}
+    - name: goth carrot diagnol down_44
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 50
+        width: 123
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 34.127594, y: 70.778244}
+        - {x: 10.127594, y: 97.778244}
+        - {x: -20.872406, y: 97.778244}
+        - {x: -32.872406, y: 82.778244}
+        - {x: -32.872406, y: 17.778244}
+        - {x: -30.872406, y: -41.221756}
+        - {x: -10.872406, y: -96.221756}
+        - {x: -9.872406, y: -96.221756}
+        - {x: -4.872406, y: -94.221756}
+        - {x: -0.872406, y: -88.221756}
+        - {x: -0.872406, y: -71.221756}
+        - {x: 7.127594, y: -95.221756}
+        - {x: 9.127594, y: -96.221756}
+        - {x: 16.127594, y: -96.221756}
+        - {x: 20.127594, y: -91.221756}
+        - {x: 30.127594, y: -16.221756}
+        - {x: 34.127594, y: 26.778244}
+    - name: goth carrot diagnol down_45
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 50
+        width: 123
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33.269897, y: 97.778244}
+        - {x: -33.269897, y: -55.221756}
+        - {x: -10.269897, y: -96.221756}
+        - {x: 22.730103, y: -96.221756}
+        - {x: 33.730103, y: -79.221756}
+        - {x: 33.730103, y: 97.778244}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

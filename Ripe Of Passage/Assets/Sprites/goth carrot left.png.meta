@@ -1,0 +1,985 @@
+fileFormatVersion: 2
+guid: 1e47334aec0f0e248ae0c1ba15ee78d1
+timeCreated: 1454190560
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: goth carrot left_0
+    21300002: goth carrot left_1
+    21300004: goth carrot left_2
+    21300006: goth carrot left_3
+    21300008: goth carrot left_4
+    21300010: goth carrot left_5
+    21300012: goth carrot left_6
+    21300014: goth carrot left_7
+    21300016: goth carrot left_8
+    21300018: goth carrot left_9
+    21300020: goth carrot left_10
+    21300022: goth carrot left_11
+    21300024: goth carrot left_12
+    21300026: goth carrot left_13
+    21300028: goth carrot left_14
+    21300030: goth carrot left_15
+    21300032: goth carrot left_16
+    21300034: goth carrot left_17
+    21300036: goth carrot left_18
+    21300038: goth carrot left_19
+    21300040: goth carrot left_20
+    21300042: goth carrot left_21
+    21300044: goth carrot left_22
+    21300046: goth carrot left_23
+    21300048: goth carrot left_24
+    21300050: goth carrot left_25
+    21300052: goth carrot left_26
+    21300054: goth carrot left_27
+    21300056: goth carrot left_28
+    21300058: goth carrot left_29
+    21300060: goth carrot left_30
+    21300062: goth carrot left_31
+    21300064: goth carrot left_32
+    21300066: goth carrot left_33
+    21300068: goth carrot left_34
+    21300070: goth carrot left_35
+    21300072: goth carrot left_36
+    21300074: goth carrot left_37
+    21300076: goth carrot left_38
+    21300078: goth carrot left_39
+    21300080: goth carrot left_40
+    21300082: goth carrot left_41
+    21300084: goth carrot left_42
+    21300086: goth carrot left_43
+    21300088: goth carrot left_44
+    21300090: goth carrot left_45
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: goth carrot left_0
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 3221
+        width: 117
+        height: 359
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 34.129955, y: -2.253418}
+        - {x: 34.129955, y: 68.74658}
+        - {x: 10.129955, y: 101.74658}
+        - {x: -32.870045, y: 101.74658}
+        - {x: -32.870045, y: -79.25342}
+        - {x: -1.8700447, y: -101.25342}
+        - {x: 10.129955, y: -101.25342}
+        - {x: 11.129955, y: -98.25342}
+        - {x: 32.129955, y: -23.253418}
+    - name: goth carrot left_1
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 3221
+        width: 117
+        height: 359
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16.055054, y: 101.74658}
+        - {x: -23.944946, y: 101.74658}
+        - {x: -32.944946, y: 86.74658}
+        - {x: -32.944946, y: 52.746582}
+        - {x: -2.9449463, y: -101.25342}
+        - {x: 12.055054, y: -101.25342}
+        - {x: 29.055054, y: -55.253418}
+        - {x: 34.055054, y: -36.253418}
+        - {x: 34.055054, y: 73.74658}
+    - name: goth carrot left_2
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 3222
+        width: 117
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.89209, y: 102.31055}
+        - {x: -32.89209, y: 94.31055}
+        - {x: -32.89209, y: 7.310547}
+        - {x: -8.89209, y: -100.68945}
+        - {x: 24.10791, y: -100.68945}
+        - {x: 34.10791, y: -24.689453}
+        - {x: 34.10791, y: 78.31055}
+        - {x: 9.10791, y: 102.31055}
+    - name: goth carrot left_3
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 3223
+        width: 117
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10.03302, y: 100.87439}
+        - {x: -32.96698, y: 100.87439}
+        - {x: -32.96698, y: -27.12561}
+        - {x: -7.96698, y: -100.12561}
+        - {x: 31.03302, y: -100.12561}
+        - {x: 34.03302, y: -61.12561}
+        - {x: 34.03302, y: 83.87439}
+    - name: goth carrot left_4
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 3223
+        width: 117
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.914124, y: 100.87439}
+        - {x: -31.914124, y: 98.87439}
+        - {x: -32.914124, y: 92.87439}
+        - {x: -32.914124, y: 36.87439}
+        - {x: -6.9141235, y: -100.12561}
+        - {x: 17.085876, y: -100.12561}
+        - {x: 34.085876, y: -71.12561}
+        - {x: 34.085876, y: 97.87439}
+        - {x: 33.085876, y: 100.87439}
+    - name: goth carrot left_5
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 3225
+        width: 117
+        height: 351
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.989014, y: 100.002075}
+        - {x: -32.989014, y: 88.002075}
+        - {x: -32.989014, y: 36.002075}
+        - {x: -22.989014, y: -14.997925}
+        - {x: -4.9890137, y: -98.997925}
+        - {x: 30.010986, y: -98.997925}
+        - {x: 34.010986, y: -63.997925}
+        - {x: 34.010986, y: 82.002075}
+        - {x: 10.010986, y: 100.002075}
+    - name: goth carrot left_6
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 2771
+        width: 117
+        height: 351
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.870045, y: 100.0022}
+        - {x: -32.870045, y: 89.0022}
+        - {x: -32.870045, y: 14.002197}
+        - {x: -10.870045, y: -98.9978}
+        - {x: 34.129955, y: -98.9978}
+        - {x: 34.129955, y: 81.0022}
+        - {x: 8.129955, y: 100.0022}
+    - name: goth carrot left_7
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 2771
+        width: 117
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8.055054, y: 99.5022}
+        - {x: -28.944946, y: 99.5022}
+        - {x: -32.944946, y: 83.5022}
+        - {x: -32.944946, y: 37.502197}
+        - {x: -12.944946, y: -96.4978}
+        - {x: -9.944946, y: -98.4978}
+        - {x: 18.055054, y: -98.4978}
+        - {x: 27.055054, y: -94.4978}
+        - {x: 34.055054, y: -28.497803}
+        - {x: 34.055054, y: 71.5022}
+    - name: goth carrot left_8
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 2773
+        width: 117
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.89209, y: 99.12988}
+        - {x: -32.89209, y: 96.12988}
+        - {x: -32.89209, y: 3.1298828}
+        - {x: -19.89209, y: -97.87012}
+        - {x: 34.10791, y: -97.87012}
+        - {x: 34.10791, y: 99.12988}
+    - name: goth carrot left_9
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 2774
+        width: 117
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.96698, y: 97.693726}
+        - {x: -27.96698, y: 92.693726}
+        - {x: -32.96698, y: 86.693726}
+        - {x: -32.96698, y: 23.693726}
+        - {x: -21.96698, y: -49.306274}
+        - {x: -11.96698, y: -97.306274}
+        - {x: 18.03302, y: -97.306274}
+        - {x: 33.03302, y: -92.306274}
+        - {x: 34.03302, y: -69.306274}
+        - {x: 34.03302, y: 68.693726}
+        - {x: 14.03302, y: 97.693726}
+    - name: goth carrot left_10
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 2775
+        width: 117
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32.914124, y: 98.25769}
+        - {x: -32.914124, y: -10.74231}
+        - {x: -14.914124, y: -96.74231}
+        - {x: 33.085876, y: -96.74231}
+        - {x: 34.085876, y: -93.74231}
+        - {x: 34.085876, y: 76.25769}
+        - {x: 15.085876, y: 98.25769}
+    - name: goth carrot left_11
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 2773
+        width: 117
+        height: 346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32.989014, y: 98.62988}
+        - {x: -32.989014, y: -58.370117}
+        - {x: -30.989014, y: -97.37012}
+        - {x: 29.010986, y: -97.37012}
+        - {x: 34.010986, y: -70.37012}
+        - {x: 34.010986, y: 76.62988}
+        - {x: 21.010986, y: 98.62988}
+    - name: goth carrot left_12
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 2317
+        width: 117
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32.870045, y: 99.5022}
+        - {x: -32.870045, y: 11.502197}
+        - {x: -12.870045, y: -98.4978}
+        - {x: 31.129955, y: -98.4978}
+        - {x: 34.129955, y: -82.4978}
+        - {x: 34.129955, y: 96.5022}
+        - {x: 21.129955, y: 99.5022}
+    - name: goth carrot left_13
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 2317
+        width: 117
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.944946, y: 99.5022}
+        - {x: -32.944946, y: 86.5022}
+        - {x: -32.944946, y: 25.502197}
+        - {x: -10.944946, y: -89.4978}
+        - {x: -6.9449463, y: -98.4978}
+        - {x: 34.055054, y: -98.4978}
+        - {x: 34.055054, y: 80.5022}
+        - {x: 14.055054, y: 99.5022}
+    - name: goth carrot left_14
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 2315
+        width: 117
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.89209, y: 100.37439}
+        - {x: -32.89209, y: 89.37439}
+        - {x: -32.89209, y: 19.37439}
+        - {x: -7.89209, y: -97.62561}
+        - {x: -6.89209, y: -99.62561}
+        - {x: 28.10791, y: -99.62561}
+        - {x: 34.10791, y: -40.62561}
+        - {x: 34.10791, y: 76.37439}
+        - {x: 11.10791, y: 100.37439}
+    - name: goth carrot left_15
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 2315
+        width: 117
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.96698, y: 100.37439}
+        - {x: -32.96698, y: 88.37439}
+        - {x: -32.96698, y: 33.37439}
+        - {x: -7.96698, y: -99.62561}
+        - {x: 23.03302, y: -99.62561}
+        - {x: 34.03302, y: -81.62561}
+        - {x: 34.03302, y: 73.37439}
+        - {x: 8.03302, y: 100.37439}
+    - name: goth carrot left_16
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 2313
+        width: 117
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.914124, y: 101.24658}
+        - {x: -32.914124, y: 91.24658}
+        - {x: -32.914124, y: 32.246582}
+        - {x: -20.914124, y: -30.753418}
+        - {x: -4.9141235, y: -98.75342}
+        - {x: -2.9141235, y: -100.75342}
+        - {x: 27.085876, y: -100.75342}
+        - {x: 34.085876, y: -43.753418}
+        - {x: 34.085876, y: 73.24658}
+        - {x: 7.0858765, y: 101.24658}
+    - name: goth carrot left_17
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 2313
+        width: 117
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32.989014, y: 101.24658}
+        - {x: -32.989014, y: 43.246582}
+        - {x: -9.989014, y: -100.75342}
+        - {x: 19.010986, y: -100.75342}
+        - {x: 34.010986, y: -17.753418}
+        - {x: 34.010986, y: 75.24658}
+        - {x: 25.010986, y: 101.24658}
+    - name: goth carrot left_18
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 1859
+        width: 117
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.870045, y: 101.746704}
+        - {x: -32.870045, y: 97.746704}
+        - {x: -32.870045, y: 10.746704}
+        - {x: -7.8700447, y: -101.253296}
+        - {x: 23.129955, y: -101.253296}
+        - {x: 34.129955, y: -35.253296}
+        - {x: 34.129955, y: 85.746704}
+        - {x: 20.129955, y: 101.746704}
+    - name: goth carrot left_19
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 1858
+        width: 117
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.944946, y: 102.68274}
+        - {x: -32.944946, y: 97.68274}
+        - {x: -32.944946, y: -27.31726}
+        - {x: -15.944946, y: -101.31726}
+        - {x: 16.055054, y: -101.31726}
+        - {x: 34.055054, y: -59.31726}
+        - {x: 34.055054, y: 77.68274}
+        - {x: 7.0550537, y: 102.68274}
+    - name: goth carrot left_20
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 1859
+        width: 117
+        height: 359
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10.10791, y: 101.746704}
+        - {x: -24.89209, y: 101.746704}
+        - {x: -32.89209, y: 93.746704}
+        - {x: -32.89209, y: 35.746704}
+        - {x: -1.8920898, y: -101.253296}
+        - {x: 11.10791, y: -101.253296}
+        - {x: 32.10791, y: -23.253296}
+        - {x: 34.10791, y: -2.253296}
+        - {x: 34.10791, y: 68.746704}
+    - name: goth carrot left_21
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 1859
+        width: 117
+        height: 359
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7.03302, y: 101.746704}
+        - {x: -23.96698, y: 101.746704}
+        - {x: -32.96698, y: 90.746704}
+        - {x: -32.96698, y: 35.746704}
+        - {x: -3.96698, y: -97.253296}
+        - {x: 1.03302, y: -101.253296}
+        - {x: 15.03302, y: -101.253296}
+        - {x: 34.03302, y: -40.253296}
+        - {x: 34.03302, y: 71.746704}
+        - {x: 33.03302, y: 74.746704}
+    - name: goth carrot left_22
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 1859
+        width: 117
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13.085876, y: 101.746704}
+        - {x: -23.914124, y: 101.746704}
+        - {x: -32.914124, y: 95.746704}
+        - {x: -32.914124, y: 22.746704}
+        - {x: -6.9141235, y: -101.253296}
+        - {x: 15.085876, y: -101.253296}
+        - {x: 24.085876, y: -68.253296}
+        - {x: 34.085876, y: 2.746704}
+        - {x: 34.085876, y: 75.746704}
+    - name: goth carrot left_23
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 1860
+        width: 117
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32.989014, y: 101.81055}
+        - {x: -32.989014, y: 7.810547}
+        - {x: -18.989014, y: -100.18945}
+        - {x: 34.010986, y: -100.18945}
+        - {x: 34.010986, y: 101.81055}
+    - name: goth carrot left_24
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 1407
+        width: 117
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.870045, y: 100.87439}
+        - {x: -32.870045, y: 95.87439}
+        - {x: -32.870045, y: 16.87439}
+        - {x: -5.8700447, y: -100.12561}
+        - {x: 29.129955, y: -100.12561}
+        - {x: 34.129955, y: -33.12561}
+        - {x: 34.129955, y: 82.87439}
+        - {x: 9.129955, y: 100.87439}
+    - name: goth carrot left_25
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 1408
+        width: 117
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32.944946, y: 100.93829}
+        - {x: -32.944946, y: -16.061707}
+        - {x: -19.944946, y: -99.06171}
+        - {x: 22.055054, y: -99.06171}
+        - {x: 26.055054, y: -98.06171}
+        - {x: 34.055054, y: -19.061707}
+        - {x: 34.055054, y: 75.93829}
+        - {x: 10.055054, y: 100.93829}
+    - name: goth carrot left_26
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 1409
+        width: 117
+        height: 351
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23.10791, y: 78.0022}
+        - {x: 13.10791, y: 92.0022}
+        - {x: 6.10791, y: 100.0022}
+        - {x: -28.89209, y: 100.0022}
+        - {x: -32.89209, y: 90.0022}
+        - {x: -32.89209, y: 10.002197}
+        - {x: -23.89209, y: -42.997803}
+        - {x: -7.89209, y: -98.9978}
+        - {x: 24.10791, y: -98.9978}
+        - {x: 34.10791, y: -20.997803}
+        - {x: 34.10791, y: 63.002197}
+        - {x: 30.10791, y: 70.0022}
+    - name: goth carrot left_27
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 1411
+        width: 117
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7.03302, y: 99.129944}
+        - {x: -28.96698, y: 99.129944}
+        - {x: -32.96698, y: 83.129944}
+        - {x: -32.96698, y: 34.129944}
+        - {x: -14.96698, y: -97.870056}
+        - {x: 25.03302, y: -97.870056}
+        - {x: 29.03302, y: -96.870056}
+        - {x: 34.03302, y: -46.870056}
+        - {x: 34.03302, y: 74.129944}
+    - name: goth carrot left_28
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 1413
+        width: 117
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32.914124, y: 98.75769}
+        - {x: -32.914124, y: 31.75769}
+        - {x: -13.914124, y: -97.24231}
+        - {x: 34.085876, y: -97.24231}
+        - {x: 34.085876, y: 81.75769}
+        - {x: 30.085876, y: 98.75769}
+    - name: goth carrot left_29
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 1414
+        width: 117
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.989014, y: 97.32153}
+        - {x: -32.989014, y: 93.32153}
+        - {x: -32.989014, y: -51.678467}
+        - {x: -23.989014, y: -96.67847}
+        - {x: 28.010986, y: -96.67847}
+        - {x: 34.010986, y: -1.6784668}
+        - {x: 34.010986, y: 69.32153}
+        - {x: 18.010986, y: 97.32153}
+    - name: goth carrot left_30
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 960
+        width: 117
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32.870045, y: 97.32153}
+        - {x: -32.870045, y: -62.678467}
+        - {x: -14.870045, y: -92.67847}
+        - {x: -9.870045, y: -96.67847}
+        - {x: 22.129955, y: -96.67847}
+        - {x: 34.129955, y: -95.67847}
+        - {x: 34.129955, y: 64.32153}
+        - {x: 14.129955, y: 97.32153}
+    - name: goth carrot left_31
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 960
+        width: 117
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12.055054, y: 97.32153}
+        - {x: -32.944946, y: 97.32153}
+        - {x: -32.944946, y: -33.678467}
+        - {x: -19.944946, y: -96.67847}
+        - {x: 17.055054, y: -96.67847}
+        - {x: 28.055054, y: -93.67847}
+        - {x: 34.055054, y: -12.678467}
+        - {x: 34.055054, y: 64.32153}
+    - name: goth carrot left_32
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 959
+        width: 117
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.89209, y: 98.75769}
+        - {x: -32.89209, y: 97.75769}
+        - {x: -32.89209, y: -38.24231}
+        - {x: -31.89209, y: -51.24231}
+        - {x: -11.89209, y: -95.24231}
+        - {x: -7.89209, y: -97.24231}
+        - {x: 30.10791, y: -97.24231}
+        - {x: 34.10791, y: -28.24231}
+        - {x: 34.10791, y: 73.75769}
+        - {x: 22.10791, y: 98.75769}
+    - name: goth carrot left_33
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 958
+        width: 117
+        height: 346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7.03302, y: 98.19379}
+        - {x: -28.96698, y: 98.19379}
+        - {x: -32.96698, y: 82.19379}
+        - {x: -32.96698, y: -48.806213}
+        - {x: -8.96698, y: -97.80621}
+        - {x: 32.03302, y: -97.80621}
+        - {x: 34.03302, y: -47.806213}
+        - {x: 34.03302, y: 77.19379}
+    - name: goth carrot left_34
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 957
+        width: 117
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 24.085876, y: -95.370056}
+        - {x: 34.085876, y: -23.370056}
+        - {x: 34.085876, y: 67.629944}
+        - {x: 32.085876, y: 71.629944}
+        - {x: 6.0858765, y: 99.629944}
+        - {x: -28.914124, y: 99.629944}
+        - {x: -32.914124, y: 89.629944}
+        - {x: -32.914124, y: 18.629944}
+        - {x: -19.914124, y: -43.370056}
+        - {x: -7.9141235, y: -98.370056}
+        - {x: 2.0858765, y: -98.370056}
+        - {x: 3.0858765, y: -96.370056}
+        - {x: 4.0858765, y: -93.370056}
+        - {x: 13.085876, y: -98.370056}
+    - name: goth carrot left_35
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 955
+        width: 117
+        height: 351
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32.989014, y: 100.0022}
+        - {x: -32.989014, y: -1.9978027}
+        - {x: -17.989014, y: -98.9978}
+        - {x: 32.010986, y: -98.9978}
+        - {x: 34.010986, y: -88.9978}
+        - {x: 34.010986, y: 91.0022}
+        - {x: 16.010986, y: 100.0022}
+    - name: goth carrot left_36
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 501
+        width: 117
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.870045, y: 100.5022}
+        - {x: -32.870045, y: 92.5022}
+        - {x: -32.870045, y: 40.502197}
+        - {x: -15.870045, y: -62.497803}
+        - {x: -5.8700447, y: -99.4978}
+        - {x: 24.129955, y: -99.4978}
+        - {x: 34.129955, y: -42.497803}
+        - {x: 34.129955, y: 69.5022}
+        - {x: 17.129955, y: 100.5022}
+    - name: goth carrot left_37
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 499
+        width: 117
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.944946, y: 100.87445}
+        - {x: -32.944946, y: 95.87445}
+        - {x: -32.944946, y: 5.8744507}
+        - {x: -7.9449463, y: -100.12555}
+        - {x: 30.055054, y: -100.12555}
+        - {x: 34.055054, y: -57.12555}
+        - {x: 34.055054, y: 88.87445}
+        - {x: 16.055054, y: 100.87445}
+    - name: goth carrot left_38
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 499
+        width: 117
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13.10791, y: 101.37445}
+        - {x: -24.89209, y: 101.37445}
+        - {x: -32.89209, y: 92.37445}
+        - {x: -32.89209, y: 32.37445}
+        - {x: -5.89209, y: -100.62555}
+        - {x: 16.10791, y: -100.62555}
+        - {x: 31.10791, y: -58.62555}
+        - {x: 34.10791, y: -22.62555}
+        - {x: 34.10791, y: 72.37445}
+    - name: goth carrot left_39
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 497
+        width: 117
+        height: 359
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.96698, y: 101.74667}
+        - {x: -32.96698, y: 90.74667}
+        - {x: -32.96698, y: 36.746674}
+        - {x: -3.96698, y: -96.25333}
+        - {x: 0.03302002, y: -101.25333}
+        - {x: 17.03302, y: -101.25333}
+        - {x: 34.03302, y: -41.253326}
+        - {x: 34.03302, y: 73.74667}
+        - {x: 10.03302, y: 101.74667}
+    - name: goth carrot left_40
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 496
+        width: 117
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.914124, y: -101.3172}
+        - {x: 16.085876, y: -101.3172}
+        - {x: 34.085876, y: -75.3172}
+        - {x: 34.085876, y: 102.6828}
+        - {x: -32.914124, y: 102.6828}
+        - {x: -32.914124, y: -84.3172}
+    - name: goth carrot left_41
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 496
+        width: 117
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.989014, y: 102.6828}
+        - {x: -32.989014, y: 98.6828}
+        - {x: -32.989014, y: 64.6828}
+        - {x: -17.989014, y: -29.3172}
+        - {x: -2.9890137, y: -100.3172}
+        - {x: -0.9890137, y: -101.3172}
+        - {x: 11.010986, y: -101.3172}
+        - {x: 34.010986, y: -38.3172}
+        - {x: 34.010986, y: 79.6828}
+        - {x: 18.010986, y: 102.6828}
+    - name: goth carrot left_42
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 42
+        width: 117
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.870045, y: -101.317184}
+        - {x: 16.129955, y: -101.317184}
+        - {x: 34.129955, y: -75.317184}
+        - {x: 34.129955, y: 102.682816}
+        - {x: -32.870045, y: 102.682816}
+        - {x: -32.870045, y: -84.317184}
+    - name: goth carrot left_43
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 42
+        width: 117
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32.944946, y: 102.682816}
+        - {x: -32.944946, y: -47.317184}
+        - {x: -6.9449463, y: -101.317184}
+        - {x: 34.055054, y: -101.317184}
+        - {x: 34.055054, y: 102.682816}
+    - name: goth carrot left_44
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 42
+        width: 117
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.89209, y: -101.317184}
+        - {x: 16.10791, y: -101.317184}
+        - {x: 34.10791, y: -75.317184}
+        - {x: 34.10791, y: 102.682816}
+        - {x: -32.89209, y: 102.682816}
+        - {x: -32.89209, y: -84.317184}
+    - name: goth carrot left_45
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 42
+        width: 117
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32.96698, y: 102.682816}
+        - {x: -32.96698, y: -47.317184}
+        - {x: -6.96698, y: -101.317184}
+        - {x: 34.03302, y: -101.317184}
+        - {x: 34.03302, y: 102.682816}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

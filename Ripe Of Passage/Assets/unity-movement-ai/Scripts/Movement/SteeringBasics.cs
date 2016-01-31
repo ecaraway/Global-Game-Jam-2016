@@ -24,6 +24,9 @@ public class SteeringBasics : MonoBehaviour {
 
 	public float turnSpeed = 20f;
 
+	public float rot;
+	private Quaternion _rotation = new Quaternion();
+
 	private Rigidbody2D rb;
 
 	public bool smoothing = true;
@@ -52,7 +55,7 @@ public class SteeringBasics : MonoBehaviour {
 	public Vector3 seek(Vector3 targetPosition, float maxSeekAccel) {
 		//Get the direction
 		Vector3 acceleration = targetPosition - transform.position;
-		
+
 		//Remove the z coordinate
 		acceleration.z = 0;
 		
@@ -100,7 +103,8 @@ public class SteeringBasics : MonoBehaviour {
 			float toRotation = (Mathf.Atan2 (direction.y, direction.x) * Mathf.Rad2Deg);
 			float rotation = Mathf.LerpAngle(transform.rotation.eulerAngles.z, toRotation, Time.deltaTime*turnSpeed);
 			
-			transform.rotation = Quaternion.Euler(0, 0, rotation);
+			_rotation = Quaternion.Euler(0, 0, rotation);
+			rot = _rotation.eulerAngles.z;
 		}
 	}
 
@@ -111,9 +115,10 @@ public class SteeringBasics : MonoBehaviour {
 
     public void lookAtDirection(float toRotation)
     {
-            float rotation = Mathf.LerpAngle(transform.rotation.eulerAngles.z, toRotation, Time.deltaTime * turnSpeed);
+		float rotation = Mathf.LerpAngle(transform.rotation.eulerAngles.z, toRotation, Time.deltaTime * turnSpeed);
 
-            transform.rotation = Quaternion.Euler(0, 0, rotation);
+		_rotation = Quaternion.Euler(0, 0, rotation);
+		rot = _rotation.eulerAngles.z;
     }
 
     /* Returns the steering for a character so it arrives at the target */

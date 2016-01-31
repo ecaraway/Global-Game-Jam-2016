@@ -6,9 +6,8 @@ public class SpriteOrientation : MonoBehaviour {
 	public string orientation;
 	//public float rot;
 
-	public SpriteRenderer sprite;
-	public Animator anim;
-	public Sprite U, UL, L, DL, D, DR, R, UR;
+	private SpriteRenderer sprite;
+	private Animator anim;
 	private SteeringBasics sb;
 
 	// Use this for initialization
@@ -23,23 +22,24 @@ public class SpriteOrientation : MonoBehaviour {
 		//rotation in degrees
 		//float rot = transform.localEulerAngles.z;
 		//transform.rotation.Set(0,0,0,0);
-		float rot = sb.rotation;
+		float rot = 0;//sb.rot;
 		//rot = rotation;
 
 		//MODSSS
-		if (rot < 0f) {
-			rot = rot % -360f + 360f; //just convert to positive to keep things manageable
-		} else {
-			rot = rot % 360f;
-		}
+		//if (rot < 0f) {
+		//	rot = rot % -360f + 360f; //just convert to positive to keep things manageable
+		//} else {
+		//	rot = rot % 360f;
+		//}
 
 		//Handling of Sprite Direction
-		if (rot == 0f) {
+		if ( rot == 0 )
+		{
 			orientation = "0";
-			anim.SetInteger("Direction", 4);
+			anim.SetInteger ( "Direction", 4 );
 			sprite.flipX = false;
-			//sprite.flipY = false;
-		}else if (rot > 337.5f && rot < 360f || rot > 0f && rot <= 22.5f) {
+		}
+		else if (rot > 337.5f && rot < 360f || rot > 0f && rot <= 22.5f) {
 			orientation = "U";
 			//sprite.sprite = U;
 			anim.SetInteger("Direction", 0);
