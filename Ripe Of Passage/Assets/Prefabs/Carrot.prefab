@@ -19,6 +19,7 @@ GameObject:
   - 114: {fileID: 11464346}
   - 114: {fileID: 11414070}
   - 95: {fileID: 9522510}
+  - 114: {fileID: 11428258}
   m_Layer: 0
   m_Name: Carrot
   m_TagString: Untagged
@@ -98,6 +99,18 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   orientation: 
+--- !u!114 &11428258
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 134224}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d557e52d8a1827a44a645e9548a45cea, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  deadEnemy: {fileID: 0}
 --- !u!114 &11435846
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -166,7 +179,7 @@ MonoBehaviour:
   slowRadius: 1
   timeToTarget: 0.1
   turnSpeed: 20
-  rotation: 0
+  rot: 0
   smoothing: 1
   numSamplesForSmoothing: 5
 --- !u!114 &11486206

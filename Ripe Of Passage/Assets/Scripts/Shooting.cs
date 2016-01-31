@@ -39,36 +39,37 @@ public class Shooting : MonoBehaviour {
         worldPosition.z = transform.position.z;
 
         Quaternion temp = transform.rotation;
-        
+		if ( Time.time >= timestamp )
+		{
 
-        if (Input.GetMouseButtonDown(0))
-        {
-            Debug.Log("Left Mouse Clicked");
-
-
-
-
-        //    transform.LookAt(worldPosition);
-        //    Vector3 direction = Camera.main.ScreenToWorldPoint(new Vector3(cameraX, cameraY, transform.position.z)) - transform.position;
-        //    GameObject bull = (GameObject)Instantiate(bulletPrefab, transform.position + (transform.forward * .8f), Quaternion.LookRotation(direction));
-        //    bull.GetComponent<Rigidbody2D>().AddForce(worldPosition * bulletSpeed);
-        //    bull.GetComponent<Rigidbody2D>().transform.rotation = Quaternion.Euler(0f, 0f, 0f);
-             Vector3 myPos = transform.position;
-        //     float x = Input.mousePosition.x;
-        //     float y = Input.mousePosition.y; 
-             Vector3 direction = Camera.main.ScreenPointToRay(Input.mousePosition).GetPoint(cameraDif);
-
-             transform.LookAt(worldPosition);
-             GameObject bull = (GameObject)Instantiate(bulletPrefab, myPos + (transform.forward.normalized * .6f), transform.rotation); 
-             bull.GetComponent<Rigidbody2D>().AddForce(transform.forward * bulletSpeed);
-             bull.GetComponent<Rigidbody2D>().transform.rotation = Quaternion.LookRotation(Vector3.forward , transform.forward );
-                 //Quaternion.AngleAxis(Mathf.Atan2(transform.forward.y, transform.forward.x) * Mathf.Rad2Deg, Vector3.forward);
+			if (Input.GetMouseButtonDown(0))
+			{
+				Debug.Log("Left Mouse Clicked");
 
 
 
-        }
+
+			//    transform.LookAt(worldPosition);
+			//    Vector3 direction = Camera.main.ScreenToWorldPoint(new Vector3(cameraX, cameraY, transform.position.z)) - transform.position;
+			//    GameObject bull = (GameObject)Instantiate(bulletPrefab, transform.position + (transform.forward * .8f), Quaternion.LookRotation(direction));
+			//    bull.GetComponent<Rigidbody2D>().AddForce(worldPosition * bulletSpeed);
+			//    bull.GetComponent<Rigidbody2D>().transform.rotation = Quaternion.Euler(0f, 0f, 0f);
+				 Vector3 myPos = transform.position;
+			//     float x = Input.mousePosition.x;
+			//     float y = Input.mousePosition.y; 
+				 Vector3 direction = Camera.main.ScreenPointToRay(Input.mousePosition).GetPoint(cameraDif);
+
+				 transform.LookAt(worldPosition);
+				 GameObject bull = (GameObject)Instantiate(bulletPrefab, myPos + (transform.forward.normalized * .6f), transform.rotation); 
+				 bull.GetComponent<Rigidbody2D>().AddForce(transform.forward * bulletSpeed);
+				 bull.GetComponent<Rigidbody2D>().transform.rotation = Quaternion.LookRotation(Vector3.forward , transform.forward );
+					 //Quaternion.AngleAxis(Mathf.Atan2(transform.forward.y, transform.forward.x) * Mathf.Rad2Deg, Vector3.forward);
+
+				 timestamp = Time.time + timeBetweenBull;
+
+			}
         //bullet cooldown
-        if(Time.time >= timestamp){
+        
         //arrow controls
             if(Input.GetKey(KeyCode.UpArrow)){
                 Vector3 myPos = transform.position;

@@ -19,6 +19,7 @@ GameObject:
   - 114: {fileID: 11450856}
   - 114: {fileID: 11456168}
   - 95: {fileID: 9578898}
+  - 114: {fileID: 11471462}
   m_Layer: 0
   m_Name: Garlic
   m_TagString: Untagged
@@ -154,7 +155,7 @@ MonoBehaviour:
   slowRadius: 1
   timeToTarget: 0.1
   turnSpeed: 20
-  rotation: 0
+  rot: 0
   smoothing: 1
   numSamplesForSmoothing: 5
 --- !u!114 &11457236
@@ -181,6 +182,18 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   maxPrediction: 1
+--- !u!114 &11471462
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 131496}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d557e52d8a1827a44a645e9548a45cea, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  deadEnemy: {fileID: 0}
 --- !u!114 &11482238
 MonoBehaviour:
   m_ObjectHideFlags: 1
