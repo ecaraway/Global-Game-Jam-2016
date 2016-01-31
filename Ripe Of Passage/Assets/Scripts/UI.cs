@@ -3,7 +3,7 @@ using System.Collections;
 
 public class UI : MonoBehaviour {
 
-    bool listUnrolled = false;
+    bool listUnrolled = true;
     public GameObject scroll;
 
 	void Start ()
