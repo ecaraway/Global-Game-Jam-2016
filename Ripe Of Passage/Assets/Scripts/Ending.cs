@@ -25,7 +25,7 @@ public class Ending : MonoBehaviour {
 
 	IEnumerator Example2 ( )
 	{
-		yield return new WaitForSeconds ( 30 );
+		yield return new WaitForSeconds ( 33 );
 		SceneManager.LoadScene ("Credits");
 	}
 }
