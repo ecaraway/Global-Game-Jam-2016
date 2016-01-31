@@ -16,6 +16,7 @@ public class Shooting : MonoBehaviour {
     private float cameraY;
     public float timeBetweenBull = 1;
     private float timestamp;
+    public AudioSource butts;
 
 
     //public int speed;
@@ -45,6 +46,7 @@ public class Shooting : MonoBehaviour {
 			if (Input.GetMouseButtonDown(0))
 			{
 				Debug.Log("Left Mouse Clicked");
+                butts.PlayOneShot(butts.clip, 1);
 
 
 
@@ -72,6 +74,7 @@ public class Shooting : MonoBehaviour {
         
         //arrow controls
             if(Input.GetKey(KeyCode.UpArrow)){
+                butts.PlayOneShot(butts.clip, 1);
                 Vector3 myPos = transform.position;
                 Debug.Log("UpArrow Pressed");
                 transform.Rotate(-100, 0f , 0f);
@@ -82,6 +85,7 @@ public class Shooting : MonoBehaviour {
             }
             
             if(Input.GetKey(KeyCode.DownArrow)){
+                butts.PlayOneShot(butts.clip, 1);
                 Vector3 myPos = transform.position;
                 Debug.Log("DownArrow Pressed");
                 transform.Rotate(100, 0f, 0f);
@@ -92,6 +96,7 @@ public class Shooting : MonoBehaviour {
             }
             
             if(Input.GetKey(KeyCode.RightArrow)){
+                butts.PlayOneShot(butts.clip, 1);
                 Vector3 myPos = transform.position;
                 Debug.Log("RightArrow Pressed");
                 transform.Rotate(0f, 100, 0f);
@@ -102,6 +107,7 @@ public class Shooting : MonoBehaviour {
             }
             
             if(Input.GetKey(KeyCode.LeftArrow)){
+                butts.PlayOneShot(butts.clip, 1);
                 Vector3 myPos = transform.position;
                 Debug.Log("LeftArrow Pressed");
                 transform.Rotate(0f, -100, 0f);
