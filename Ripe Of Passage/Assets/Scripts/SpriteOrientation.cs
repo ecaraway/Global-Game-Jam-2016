@@ -22,7 +22,7 @@ public class SpriteOrientation : MonoBehaviour {
 		//rotation in degrees
 		//float rot = transform.localEulerAngles.z;
 		//transform.rotation.Set(0,0,0,0);
-		float rot = 0;//sb.rot;
+		float rot = sb.rot;
 		//rot = rotation;
 
 		//MODSSS
