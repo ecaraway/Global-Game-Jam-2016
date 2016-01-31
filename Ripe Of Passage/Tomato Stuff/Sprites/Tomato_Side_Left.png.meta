@@ -1,0 +1,1309 @@
+fileFormatVersion: 2
+guid: 8104ec3fbe38acf45ba2199dae23552d
+timeCreated: 1454198180
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Tomato_Side_Left_0
+    21300002: Tomato_Side_Left_1
+    21300004: Tomato_Side_Left_2
+    21300006: Tomato_Side_Left_3
+    21300008: Tomato_Side_Left_4
+    21300010: Tomato_Side_Left_5
+    21300012: Tomato_Side_Left_6
+    21300014: Tomato_Side_Left_7
+    21300016: Tomato_Side_Left_8
+    21300018: Tomato_Side_Left_9
+    21300020: Tomato_Side_Left_10
+    21300022: Tomato_Side_Left_11
+    21300024: Tomato_Side_Left_12
+    21300026: Tomato_Side_Left_13
+    21300028: Tomato_Side_Left_14
+    21300030: Tomato_Side_Left_15
+    21300032: Tomato_Side_Left_16
+    21300034: Tomato_Side_Left_17
+    21300036: Tomato_Side_Left_18
+    21300038: Tomato_Side_Left_19
+    21300040: Tomato_Side_Left_20
+    21300042: Tomato_Side_Left_21
+    21300044: Tomato_Side_Left_22
+    21300046: Tomato_Side_Left_23
+    21300048: Tomato_Side_Left_24
+    21300050: Tomato_Side_Left_25
+    21300052: Tomato_Side_Left_26
+    21300054: Tomato_Side_Left_27
+    21300056: Tomato_Side_Left_28
+    21300058: Tomato_Side_Left_29
+    21300060: Tomato_Side_Left_30
+    21300062: Tomato_Side_Left_31
+    21300064: Tomato_Side_Left_32
+    21300066: Tomato_Side_Left_33
+    21300068: Tomato_Side_Left_34
+    21300070: Tomato_Side_Left_35
+    21300072: Tomato_Side_Left_36
+    21300074: Tomato_Side_Left_37
+    21300076: Tomato_Side_Left_38
+    21300078: Tomato_Side_Left_39
+    21300080: Tomato_Side_Left_40
+    21300082: Tomato_Side_Left_41
+    21300084: Tomato_Side_Left_42
+    21300086: Tomato_Side_Left_43
+    21300088: Tomato_Side_Left_44
+    21300090: Tomato_Side_Left_45
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Tomato_Side_Left_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1420
+        width: 116
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14, y: 74}
+        - {x: 14, y: 76}
+        - {x: 13, y: 79}
+        - {x: -9, y: 79}
+        - {x: -54, y: 54}
+        - {x: -58, y: 39}
+        - {x: -58, y: -35}
+        - {x: -13, y: -79}
+        - {x: 25, y: -79}
+        - {x: 58, y: -41}
+        - {x: 58, y: 55}
+        - {x: 50, y: 79}
+        - {x: 20, y: 79}
+        - {x: 17, y: 77}
+        - {x: 7, y: 67}
+    - name: Tomato_Side_Left_1
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 1420
+        width: 116
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21, y: 79}
+        - {x: 17, y: 77}
+        - {x: 7, y: 67}
+        - {x: 14, y: 74}
+        - {x: 14, y: 76}
+        - {x: 13, y: 79}
+        - {x: -9, y: 79}
+        - {x: -58, y: 43}
+        - {x: -58, y: -40}
+        - {x: -35, y: -53}
+        - {x: -28, y: -52}
+        - {x: -7, y: -79}
+        - {x: -5, y: -79}
+        - {x: 3, y: -75}
+        - {x: 2, y: -63}
+        - {x: 8, y: -77}
+        - {x: 9, y: -79}
+        - {x: 22, y: -79}
+        - {x: 58, y: -31}
+        - {x: 58, y: 29}
+        - {x: 40, y: 79}
+    - name: Tomato_Side_Left_2
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 1420
+        width: 116
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 51, y: 71.5}
+        - {x: 37, y: 78.5}
+        - {x: 18, y: 78.5}
+        - {x: 17, y: 76.5}
+        - {x: 7, y: 66.5}
+        - {x: 17, y: 76.5}
+        - {x: 11, y: 78.5}
+        - {x: -27, y: 78.5}
+        - {x: -58, y: 31.5}
+        - {x: -58, y: -45.5}
+        - {x: -27, y: -78.5}
+        - {x: 1, y: -78.5}
+        - {x: 4, y: -73.5}
+        - {x: 4, y: -64.5}
+        - {x: 3, y: -63.5}
+        - {x: 3, y: -60.5}
+        - {x: 3, y: -62.5}
+        - {x: 4, y: -63.5}
+        - {x: 4, y: -69.5}
+        - {x: 5, y: -75.5}
+        - {x: 7, y: -78.5}
+        - {x: 15, y: -78.5}
+        - {x: 18, y: -73.5}
+        - {x: 58, y: -18.5}
+        - {x: 58, y: 26.5}
+    - name: Tomato_Side_Left_3
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 1420
+        width: 116
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 39, y: 78.5}
+        - {x: 18, y: 78.5}
+        - {x: 17, y: 76.5}
+        - {x: 16, y: 78.5}
+        - {x: -7, y: 78.5}
+        - {x: -20, y: 75.5}
+        - {x: -58, y: 37.5}
+        - {x: -58, y: -21.5}
+        - {x: -42, y: -63.5}
+        - {x: -21, y: -78.5}
+        - {x: 34, y: -78.5}
+        - {x: 58, y: -32.5}
+        - {x: 58, y: 62.5}
+        - {x: 49, y: 73.5}
+    - name: Tomato_Side_Left_4
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 1420
+        width: 116
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 40, y: 78.5}
+        - {x: 18, y: 78.5}
+        - {x: 17, y: 76.5}
+        - {x: 7, y: 66.5}
+        - {x: 14, y: 73.5}
+        - {x: 14, y: 75.5}
+        - {x: 13, y: 78.5}
+        - {x: -9, y: 78.5}
+        - {x: -12, y: 71.5}
+        - {x: -58, y: 31.5}
+        - {x: -58, y: -20.5}
+        - {x: -39, y: -54.5}
+        - {x: -21, y: -78.5}
+        - {x: 24, y: -78.5}
+        - {x: 55, y: -56.5}
+        - {x: 58, y: -41.5}
+        - {x: 58, y: 26.5}
+        - {x: 50, y: 73.5}
+    - name: Tomato_Side_Left_5
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 1420
+        width: 116
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 39, y: 78.5}
+        - {x: 18, y: 78.5}
+        - {x: 17, y: 76.5}
+        - {x: 16, y: 78.5}
+        - {x: -7, y: 78.5}
+        - {x: -20, y: 75.5}
+        - {x: -58, y: 54.5}
+        - {x: -58, y: -45.5}
+        - {x: -37, y: -78.5}
+        - {x: 36, y: -78.5}
+        - {x: 56, y: -56.5}
+        - {x: 58, y: -45.5}
+        - {x: 58, y: 53.5}
+        - {x: 49, y: 73.5}
+    - name: Tomato_Side_Left_6
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1220
+        width: 116
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 36, y: 78.5}
+        - {x: 21, y: 78.5}
+        - {x: 17, y: 76.5}
+        - {x: 7, y: 66.5}
+        - {x: 14, y: 73.5}
+        - {x: 15, y: 78.5}
+        - {x: -8, y: 78.5}
+        - {x: -56, y: 54.5}
+        - {x: -58, y: 47.5}
+        - {x: -58, y: -45.5}
+        - {x: -22, y: -78.5}
+        - {x: 8, y: -78.5}
+        - {x: 57, y: -26.5}
+        - {x: 58, y: -17.5}
+        - {x: 58, y: 30.5}
+        - {x: 43, y: 68.5}
+    - name: Tomato_Side_Left_7
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 1221
+        width: 116
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40, y: 77.5}
+        - {x: -58, y: 72.5}
+        - {x: -58, y: -75.5}
+        - {x: -46, y: -77.5}
+        - {x: 15, y: -77.5}
+        - {x: 58, y: -36.5}
+        - {x: 58, y: 50.5}
+        - {x: 50, y: 77.5}
+    - name: Tomato_Side_Left_8
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 1221
+        width: 116
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20, y: 77.5}
+        - {x: 17, y: 75.5}
+        - {x: 7, y: 65.5}
+        - {x: 14, y: 72.5}
+        - {x: 14, y: 77.5}
+        - {x: -7, y: 77.5}
+        - {x: -20, y: 74.5}
+        - {x: -58, y: 34.5}
+        - {x: -58, y: -18.5}
+        - {x: -44, y: -55.5}
+        - {x: -20, y: -77.5}
+        - {x: 7, y: -77.5}
+        - {x: 30, y: -67.5}
+        - {x: 58, y: -40.5}
+        - {x: 58, y: 56.5}
+        - {x: 51, y: 77.5}
+    - name: Tomato_Side_Left_9
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 1221
+        width: 116
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 77.5}
+        - {x: -53, y: 51.5}
+        - {x: -58, y: 35.5}
+        - {x: -58, y: -32.5}
+        - {x: -24, y: -77.5}
+        - {x: 5, y: -77.5}
+        - {x: 28, y: -66.5}
+        - {x: 58, y: -35.5}
+        - {x: 58, y: 59.5}
+        - {x: 54, y: 77.5}
+    - name: Tomato_Side_Left_10
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 1221
+        width: 116
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 43, y: 77.5}
+        - {x: 18, y: 77.5}
+        - {x: 17, y: 75.5}
+        - {x: 7, y: 65.5}
+        - {x: 14, y: 72.5}
+        - {x: 14, y: 74.5}
+        - {x: 13, y: 77.5}
+        - {x: -9, y: 77.5}
+        - {x: -58, y: 32.5}
+        - {x: -58, y: -35.5}
+        - {x: -53, y: -53.5}
+        - {x: -25, y: -77.5}
+        - {x: 5, y: -77.5}
+        - {x: 30, y: -68.5}
+        - {x: 58, y: -20.5}
+        - {x: 58, y: 26.5}
+        - {x: 51, y: 73.5}
+    - name: Tomato_Side_Left_11
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 1220
+        width: 116
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18, y: 78}
+        - {x: 17, y: 76}
+        - {x: 7, y: 66}
+        - {x: 14, y: 73}
+        - {x: 14, y: 75}
+        - {x: 13, y: 78}
+        - {x: -11, y: 78}
+        - {x: -58, y: 33}
+        - {x: -58, y: -34}
+        - {x: -53, y: -54}
+        - {x: -13, y: -78}
+        - {x: 37, y: -78}
+        - {x: 58, y: -75}
+        - {x: 58, y: 78}
+    - name: Tomato_Side_Left_12
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1020
+        width: 116
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 38, y: 78.5}
+        - {x: 21, y: 78.5}
+        - {x: 17, y: 76.5}
+        - {x: 7, y: 66.5}
+        - {x: 14, y: 73.5}
+        - {x: 14, y: 78.5}
+        - {x: -8, y: 78.5}
+        - {x: -18, y: 75.5}
+        - {x: -57, y: 36.5}
+        - {x: -58, y: 34.5}
+        - {x: -58, y: -53.5}
+        - {x: -33, y: -78.5}
+        - {x: 28, y: -78.5}
+        - {x: 58, y: -45.5}
+        - {x: 58, y: 33.5}
+        - {x: 48, y: 72.5}
+    - name: Tomato_Side_Left_13
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 1020
+        width: 116
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21, y: 78.5}
+        - {x: 17, y: 76.5}
+        - {x: 7, y: 66.5}
+        - {x: 14, y: 73.5}
+        - {x: 14, y: 78.5}
+        - {x: -7, y: 78.5}
+        - {x: -18, y: 75.5}
+        - {x: -58, y: 53.5}
+        - {x: -58, y: -47.5}
+        - {x: -40, y: -78.5}
+        - {x: 36, y: -78.5}
+        - {x: 58, y: -20.5}
+        - {x: 58, y: 53.5}
+        - {x: 36, y: 78.5}
+    - name: Tomato_Side_Left_14
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 1020
+        width: 116
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: 78.5}
+        - {x: -58, y: 50.5}
+        - {x: -58, y: -45.5}
+        - {x: -29, y: -78.5}
+        - {x: 15, y: -78.5}
+        - {x: 53, y: -57.5}
+        - {x: 58, y: -44.5}
+        - {x: 58, y: 63.5}
+        - {x: 44, y: 78.5}
+    - name: Tomato_Side_Left_15
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 1019
+        width: 116
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17, y: 79.5}
+        - {x: 17, y: 77.5}
+        - {x: 7, y: 67.5}
+        - {x: 17, y: 77.5}
+        - {x: 15, y: 79.5}
+        - {x: -25, y: 79.5}
+        - {x: -58, y: 41.5}
+        - {x: -58, y: -64.5}
+        - {x: -43, y: -79.5}
+        - {x: 11, y: -79.5}
+        - {x: 58, y: -29.5}
+        - {x: 58, y: 57.5}
+        - {x: 36, y: 79.5}
+    - name: Tomato_Side_Left_16
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 1019
+        width: 116
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20, y: 79.5}
+        - {x: 17, y: 77.5}
+        - {x: 7, y: 67.5}
+        - {x: 14, y: 74.5}
+        - {x: 14, y: 76.5}
+        - {x: 13, y: 79.5}
+        - {x: -11, y: 79.5}
+        - {x: -58, y: 76.5}
+        - {x: -58, y: -76.5}
+        - {x: -28, y: -79.5}
+        - {x: 11, y: -79.5}
+        - {x: 58, y: -38.5}
+        - {x: 58, y: 59.5}
+        - {x: 51, y: 79.5}
+    - name: Tomato_Side_Left_17
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 1019
+        width: 116
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21, y: 80}
+        - {x: 17, y: 78}
+        - {x: 7, y: 68}
+        - {x: 14, y: 75}
+        - {x: 14, y: 80}
+        - {x: -35, y: 80}
+        - {x: -58, y: 38}
+        - {x: -58, y: -55}
+        - {x: -32, y: -80}
+        - {x: 18, y: -80}
+        - {x: 58, y: -28}
+        - {x: 58, y: 31}
+        - {x: 56, y: 38}
+        - {x: 43, y: 70}
+        - {x: 36, y: 80}
+    - name: Tomato_Side_Left_18
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 819
+        width: 116
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 51, y: 80}
+        - {x: 20, y: 80}
+        - {x: 17, y: 78}
+        - {x: 7, y: 68}
+        - {x: 14, y: 75}
+        - {x: 14, y: 80}
+        - {x: -7, y: 80}
+        - {x: -17, y: 77}
+        - {x: -58, y: 35}
+        - {x: -58, y: -23}
+        - {x: -47, y: -58}
+        - {x: -16, y: -80}
+        - {x: 2, y: -80}
+        - {x: 1, y: -74}
+        - {x: 2, y: -69}
+        - {x: 2, y: -61}
+        - {x: 2, y: -79}
+        - {x: 3, y: -80}
+        - {x: 12, y: -80}
+        - {x: 15, y: -78}
+        - {x: 58, y: -38}
+        - {x: 58, y: 59}
+    - name: Tomato_Side_Left_19
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 819
+        width: 116
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 39, y: 77}
+        - {x: 35, y: 80}
+        - {x: 21, y: 80}
+        - {x: 17, y: 78}
+        - {x: 7, y: 68}
+        - {x: 14, y: 75}
+        - {x: 15, y: 80}
+        - {x: -8, y: 80}
+        - {x: -55, y: 56}
+        - {x: -58, y: 54}
+        - {x: -58, y: -36}
+        - {x: -29, y: -80}
+        - {x: 18, y: -80}
+        - {x: 57, y: -29}
+        - {x: 58, y: -26}
+        - {x: 58, y: 37}
+    - name: Tomato_Side_Left_20
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 819
+        width: 116
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14, y: 75.5}
+        - {x: 14, y: 77.5}
+        - {x: 13, y: 80.5}
+        - {x: -9, y: 80.5}
+        - {x: -12, y: 73.5}
+        - {x: -57, y: 33.5}
+        - {x: -58, y: 28.5}
+        - {x: -58, y: -22.5}
+        - {x: -40, y: -61.5}
+        - {x: -25, y: -80.5}
+        - {x: 25, y: -80.5}
+        - {x: 58, y: -47.5}
+        - {x: 58, y: 63.5}
+        - {x: 51, y: 80.5}
+        - {x: 20, y: 80.5}
+        - {x: 17, y: 78.5}
+        - {x: 7, y: 68.5}
+    - name: Tomato_Side_Left_21
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 819
+        width: 116
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 80}
+        - {x: -58, y: 31}
+        - {x: -58, y: -16}
+        - {x: -50, y: -39}
+        - {x: -32, y: -80}
+        - {x: 32, y: -80}
+        - {x: 58, y: -22}
+        - {x: 58, y: 52}
+        - {x: 41, y: 80}
+    - name: Tomato_Side_Left_22
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 819
+        width: 116
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20, y: 80}
+        - {x: 17, y: 78}
+        - {x: 7, y: 68}
+        - {x: 14, y: 75}
+        - {x: 14, y: 77}
+        - {x: 13, y: 80}
+        - {x: -9, y: 80}
+        - {x: -58, y: 44}
+        - {x: -58, y: -38}
+        - {x: -20, y: -78}
+        - {x: -13, y: -80}
+        - {x: -11, y: -80}
+        - {x: -4, y: -66}
+        - {x: 6, y: -80}
+        - {x: 23, y: -80}
+        - {x: 58, y: -37}
+        - {x: 58, y: 49}
+        - {x: 49, y: 80}
+    - name: Tomato_Side_Left_23
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 819
+        width: 116
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 41, y: 80}
+        - {x: 18, y: 80}
+        - {x: 17, y: 78}
+        - {x: 7, y: 68}
+        - {x: 14, y: 75}
+        - {x: 16, y: 78}
+        - {x: 14, y: 80}
+        - {x: -34, y: 80}
+        - {x: -58, y: 42}
+        - {x: -58, y: -57}
+        - {x: -36, y: -80}
+        - {x: 25, y: -80}
+        - {x: 58, y: -20}
+        - {x: 58, y: 30}
+        - {x: 52, y: 76}
+    - name: Tomato_Side_Left_24
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 620
+        width: 116
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20, y: 79}
+        - {x: 17, y: 77}
+        - {x: 7, y: 67}
+        - {x: 14, y: 74}
+        - {x: 14, y: 76}
+        - {x: 13, y: 79}
+        - {x: -9, y: 79}
+        - {x: -58, y: 32}
+        - {x: -58, y: -22}
+        - {x: -23, y: -77}
+        - {x: -19, y: -79}
+        - {x: 29, y: -79}
+        - {x: 58, y: -42}
+        - {x: 58, y: 55}
+        - {x: 50, y: 79}
+    - name: Tomato_Side_Left_25
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 621
+        width: 116
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 66.5}
+        - {x: 14, y: 73.5}
+        - {x: 14, y: 75.5}
+        - {x: 13, y: 78.5}
+        - {x: -36, y: 78.5}
+        - {x: -58, y: 42.5}
+        - {x: -58, y: -54.5}
+        - {x: -30, y: -78.5}
+        - {x: 30, y: -78.5}
+        - {x: 58, y: -49.5}
+        - {x: 58, y: 49.5}
+        - {x: 45, y: 78.5}
+        - {x: 21, y: 78.5}
+        - {x: 17, y: 76.5}
+    - name: Tomato_Side_Left_26
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 621
+        width: 116
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 78}
+        - {x: -58, y: 60}
+        - {x: -58, y: -48}
+        - {x: -44, y: -78}
+        - {x: 37, y: -78}
+        - {x: 58, y: -50}
+        - {x: 58, y: 64}
+        - {x: 54, y: 78}
+    - name: Tomato_Side_Left_27
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 622
+        width: 116
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 65.5}
+        - {x: 14, y: 72.5}
+        - {x: 14, y: 74.5}
+        - {x: 13, y: 77.5}
+        - {x: -39, y: 77.5}
+        - {x: -58, y: 47.5}
+        - {x: -58, y: -68.5}
+        - {x: -52, y: -77.5}
+        - {x: 29, y: -77.5}
+        - {x: 58, y: -21.5}
+        - {x: 58, y: 26.5}
+        - {x: 51, y: 73.5}
+        - {x: 43, y: 77.5}
+        - {x: 18, y: 77.5}
+        - {x: 17, y: 75.5}
+    - name: Tomato_Side_Left_28
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 624
+        width: 116
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21, y: 76.5}
+        - {x: 17, y: 74.5}
+        - {x: 7, y: 64.5}
+        - {x: 14, y: 71.5}
+        - {x: 14, y: 76.5}
+        - {x: -7, y: 76.5}
+        - {x: -18, y: 74.5}
+        - {x: -58, y: 37.5}
+        - {x: -58, y: -35.5}
+        - {x: -44, y: -76.5}
+        - {x: 36, y: -76.5}
+        - {x: 58, y: -44.5}
+        - {x: 58, y: 34.5}
+        - {x: 41, y: 76.5}
+    - name: Tomato_Side_Left_29
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 625
+        width: 116
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 39, y: 75.5}
+        - {x: 18, y: 75.5}
+        - {x: 17, y: 73.5}
+        - {x: 7, y: 63.5}
+        - {x: 14, y: 70.5}
+        - {x: 14, y: 72.5}
+        - {x: 13, y: 75.5}
+        - {x: -9, y: 75.5}
+        - {x: -53, y: 49.5}
+        - {x: -58, y: 32.5}
+        - {x: -58, y: -37.5}
+        - {x: -35, y: -75.5}
+        - {x: 47, y: -75.5}
+        - {x: 58, y: -34.5}
+        - {x: 58, y: 53.5}
+        - {x: 49, y: 70.5}
+    - name: Tomato_Side_Left_30
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 426
+        width: 116
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 39, y: 75}
+        - {x: 18, y: 75}
+        - {x: 17, y: 73}
+        - {x: 7, y: 63}
+        - {x: 14, y: 70}
+        - {x: 14, y: 75}
+        - {x: -10, y: 75}
+        - {x: -17, y: 74}
+        - {x: -58, y: 38}
+        - {x: -58, y: -57}
+        - {x: -53, y: -75}
+        - {x: 54, y: -75}
+        - {x: 58, y: -50}
+        - {x: 58, y: 50}
+        - {x: 49, y: 70}
+    - name: Tomato_Side_Left_31
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 426
+        width: 116
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 39, y: 75}
+        - {x: 18, y: 75}
+        - {x: 17, y: 73}
+        - {x: 7, y: 63}
+        - {x: 14, y: 70}
+        - {x: 14, y: 75}
+        - {x: -37, y: 75}
+        - {x: -58, y: 39}
+        - {x: -58, y: -52}
+        - {x: -29, y: -75}
+        - {x: 43, y: -75}
+        - {x: 58, y: -32}
+        - {x: 58, y: 55}
+        - {x: 49, y: 70}
+    - name: Tomato_Side_Left_32
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 425
+        width: 116
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21, y: 75.5}
+        - {x: 17, y: 73.5}
+        - {x: 16, y: 75.5}
+        - {x: -7, y: 75.5}
+        - {x: -19, y: 72.5}
+        - {x: -58, y: 37.5}
+        - {x: -58, y: -27.5}
+        - {x: -37, y: -75.5}
+        - {x: 34, y: -75.5}
+        - {x: 58, y: -35.5}
+        - {x: 58, y: 37.5}
+        - {x: 36, y: 75.5}
+    - name: Tomato_Side_Left_33
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 424
+        width: 116
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 76}
+        - {x: -58, y: 37}
+        - {x: -58, y: -27}
+        - {x: -35, y: -76}
+        - {x: -15, y: -76}
+        - {x: -13, y: -73}
+        - {x: -9, y: -63}
+        - {x: 10, y: -76}
+        - {x: 25, y: -76}
+        - {x: 58, y: -39}
+        - {x: 58, y: 58}
+        - {x: 53, y: 76}
+    - name: Tomato_Side_Left_34
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 423
+        width: 116
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 41, y: 77}
+        - {x: 21, y: 77}
+        - {x: 17, y: 75}
+        - {x: 7, y: 65}
+        - {x: 14, y: 72}
+        - {x: 14, y: 74}
+        - {x: 13, y: 77}
+        - {x: -16, y: 77}
+        - {x: -58, y: 28}
+        - {x: -58, y: -19}
+        - {x: -50, y: -31}
+        - {x: -41, y: -38}
+        - {x: -24, y: -73}
+        - {x: -20, y: -77}
+        - {x: 38, y: -77}
+        - {x: 57, y: -28}
+        - {x: 58, y: -25}
+        - {x: 58, y: 43}
+    - name: Tomato_Side_Left_35
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 423
+        width: 116
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 39, y: 77}
+        - {x: 18, y: 77}
+        - {x: 17, y: 75}
+        - {x: 7, y: 65}
+        - {x: 14, y: 72}
+        - {x: 14, y: 74}
+        - {x: 13, y: 77}
+        - {x: -9, y: 77}
+        - {x: -58, y: 34}
+        - {x: -58, y: -26}
+        - {x: -33, y: -77}
+        - {x: 47, y: -77}
+        - {x: 58, y: -25}
+        - {x: 58, y: 49}
+        - {x: 49, y: 72}
+    - name: Tomato_Side_Left_36
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 222
+        width: 116
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 51, y: 73.5}
+        - {x: 43, y: 77.5}
+        - {x: 18, y: 77.5}
+        - {x: 17, y: 75.5}
+        - {x: 7, y: 65.5}
+        - {x: 14, y: 72.5}
+        - {x: 14, y: 74.5}
+        - {x: 13, y: 77.5}
+        - {x: -9, y: 77.5}
+        - {x: -53, y: 51.5}
+        - {x: -58, y: 34.5}
+        - {x: -58, y: -28.5}
+        - {x: -19, y: -75.5}
+        - {x: -15, y: -77.5}
+        - {x: -11, y: -77.5}
+        - {x: -7, y: -71.5}
+        - {x: 5, y: -77.5}
+        - {x: 22, y: -77.5}
+        - {x: 22, y: -70.5}
+        - {x: 58, y: -19.5}
+        - {x: 58, y: 26.5}
+    - name: Tomato_Side_Left_37
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 221
+        width: 116
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 66}
+        - {x: 14, y: 73}
+        - {x: 14, y: 75}
+        - {x: 13, y: 78}
+        - {x: -37, y: 78}
+        - {x: -58, y: 39}
+        - {x: -58, y: -57}
+        - {x: -47, y: -69}
+        - {x: -26, y: -78}
+        - {x: 25, y: -78}
+        - {x: 58, y: -20}
+        - {x: 58, y: 27}
+        - {x: 51, y: 74}
+        - {x: 43, y: 78}
+        - {x: 18, y: 78}
+        - {x: 17, y: 76}
+    - name: Tomato_Side_Left_38
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 221
+        width: 116
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17, y: 78}
+        - {x: 17, y: 76}
+        - {x: 7, y: 66}
+        - {x: 17, y: 76}
+        - {x: 11, y: 78}
+        - {x: -7, y: 78}
+        - {x: -15, y: 73}
+        - {x: -58, y: 31}
+        - {x: -58, y: -19}
+        - {x: -34, y: -56}
+        - {x: -14, y: -78}
+        - {x: 21, y: -78}
+        - {x: 58, y: -20}
+        - {x: 58, y: 55}
+        - {x: 36, y: 78}
+    - name: Tomato_Side_Left_39
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 220
+        width: 116
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21, y: 79}
+        - {x: 17, y: 77}
+        - {x: 7, y: 67}
+        - {x: 14, y: 74}
+        - {x: 14, y: 76}
+        - {x: 13, y: 79}
+        - {x: -9, y: 79}
+        - {x: -58, y: 35}
+        - {x: -58, y: -24}
+        - {x: -43, y: -60}
+        - {x: -30, y: -54}
+        - {x: -25, y: -51}
+        - {x: -15, y: -75}
+        - {x: -12, y: -79}
+        - {x: 28, y: -79}
+        - {x: 58, y: -31}
+        - {x: 58, y: 39}
+        - {x: 41, y: 79}
+    - name: Tomato_Side_Left_40
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 220
+        width: 116
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 43, y: 79}
+        - {x: 18, y: 79}
+        - {x: 17, y: 77}
+        - {x: 7, y: 67}
+        - {x: 14, y: 74}
+        - {x: 14, y: 76}
+        - {x: 13, y: 79}
+        - {x: -13, y: 79}
+        - {x: -58, y: 40}
+        - {x: -58, y: -38}
+        - {x: -47, y: -70}
+        - {x: -20, y: -79}
+        - {x: 29, y: -79}
+        - {x: 58, y: -21}
+        - {x: 58, y: 28}
+        - {x: 51, y: 75}
+    - name: Tomato_Side_Left_41
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 220
+        width: 116
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 43, y: 79}
+        - {x: 18, y: 79}
+        - {x: 17, y: 77}
+        - {x: 7, y: 67}
+        - {x: 14, y: 74}
+        - {x: 14, y: 76}
+        - {x: 13, y: 79}
+        - {x: -13, y: 79}
+        - {x: -58, y: 40}
+        - {x: -58, y: -38}
+        - {x: -47, y: -70}
+        - {x: -20, y: -79}
+        - {x: 29, y: -79}
+        - {x: 58, y: -21}
+        - {x: 58, y: 28}
+        - {x: 51, y: 75}
+    - name: Tomato_Side_Left_42
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 20
+        width: 116
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 43, y: 79}
+        - {x: 18, y: 79}
+        - {x: 17, y: 77}
+        - {x: 7, y: 67}
+        - {x: 14, y: 74}
+        - {x: 14, y: 76}
+        - {x: 13, y: 79}
+        - {x: -13, y: 79}
+        - {x: -58, y: 40}
+        - {x: -58, y: -38}
+        - {x: -47, y: -70}
+        - {x: -20, y: -79}
+        - {x: 29, y: -79}
+        - {x: 58, y: -21}
+        - {x: 58, y: 28}
+        - {x: 51, y: 75}
+    - name: Tomato_Side_Left_43
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 20
+        width: 116
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 43, y: 79}
+        - {x: 18, y: 79}
+        - {x: 17, y: 77}
+        - {x: 7, y: 67}
+        - {x: 14, y: 74}
+        - {x: 14, y: 76}
+        - {x: 13, y: 79}
+        - {x: -13, y: 79}
+        - {x: -58, y: 40}
+        - {x: -58, y: -38}
+        - {x: -47, y: -70}
+        - {x: -20, y: -79}
+        - {x: 29, y: -79}
+        - {x: 58, y: -21}
+        - {x: 58, y: 28}
+        - {x: 51, y: 75}
+    - name: Tomato_Side_Left_44
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 20
+        width: 116
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 43, y: 79}
+        - {x: 18, y: 79}
+        - {x: 17, y: 77}
+        - {x: 7, y: 67}
+        - {x: 14, y: 74}
+        - {x: 14, y: 76}
+        - {x: 13, y: 79}
+        - {x: -13, y: 79}
+        - {x: -58, y: 40}
+        - {x: -58, y: -38}
+        - {x: -47, y: -70}
+        - {x: -20, y: -79}
+        - {x: 29, y: -79}
+        - {x: 58, y: -21}
+        - {x: 58, y: 28}
+        - {x: 51, y: 75}
+    - name: Tomato_Side_Left_45
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 20
+        width: 116
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 43, y: 79}
+        - {x: 18, y: 79}
+        - {x: 17, y: 77}
+        - {x: 7, y: 67}
+        - {x: 14, y: 74}
+        - {x: 14, y: 76}
+        - {x: 13, y: 79}
+        - {x: -13, y: 79}
+        - {x: -58, y: 40}
+        - {x: -58, y: -38}
+        - {x: -47, y: -70}
+        - {x: -20, y: -79}
+        - {x: 29, y: -79}
+        - {x: 58, y: -21}
+        - {x: 58, y: 28}
+        - {x: 51, y: 75}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
