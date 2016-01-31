@@ -3278,6 +3278,8 @@ GameObject:
   - 114: {fileID: 2100795718}
   - 50: {fileID: 2100795717}
   - 58: {fileID: 2100795713}
+  - 95: {fileID: 2100795720}
+  - 114: {fileID: 2100795719}
   m_Layer: 0
   m_Name: Player
   m_TagString: Player
@@ -3298,7 +3300,7 @@ CircleCollider2D:
   m_UsedByEffector: 0
   m_Offset: {x: 0, y: 0}
   serializedVersion: 2
-  m_Radius: 1.28
+  m_Radius: 0.65
 --- !u!114 &2100795714
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3337,7 +3339,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingOrder: 4
-  m_Sprite: {fileID: 21300000, guid: 5485e2f56028a3c4cb54f5caa167377e, type: 3}
+  m_Sprite: {fileID: 21300000, guid: a61518cb2ac5bfd48a802d33405e476b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -3349,7 +3351,7 @@ Transform:
   m_GameObject: {fileID: 2100795712}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: -6, y: -2, z: 0}
-  m_LocalScale: {x: 0.4, y: 0.4, z: 1}
+  m_LocalScale: {x: 0.75, y: 0.75, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 3
@@ -3384,6 +3386,34 @@ MonoBehaviour:
   bulletPrefab: {fileID: 146280, guid: 244e9edef070c5b49811ee3acd9c17e9, type: 2}
   bulletSpeed: 500
   timeBetweenBull: 0.5
+--- !u!114 &2100795719
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 2100795712}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8436aee64e9b9334089d457c2c28566c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!95 &2100795720
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 2100795712}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 7f2fd8b9a73a5514c87dc55cd5fea5c0, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
 --- !u!1001 &2113255441
 Prefab:
   m_ObjectHideFlags: 0
