@@ -60,6 +60,7 @@
      <Compile Include="Assets\Scripts\SpriteOrientation.cs" />
      <Compile Include="Assets\Scripts\Stairs.cs" />
      <Compile Include="Assets\Scripts\UI.cs" />
+     <Compile Include="Assets\Scripts\toLevel1.cs" />
      <Compile Include="Assets\unity-movement-ai\Scripts\ArriveUnit.cs" />
      <Compile Include="Assets\unity-movement-ai\Scripts\Camera\CameraMovement.cs" />
      <Compile Include="Assets\unity-movement-ai\Scripts\Camera\InfiniteGrid.cs" />

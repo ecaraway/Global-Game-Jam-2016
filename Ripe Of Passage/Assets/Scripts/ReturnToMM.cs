@@ -12,7 +12,7 @@ public class ReturnToMM : MonoBehaviour {
 	void Update () {
         if (Input.anyKey)
         {
-            Application.LoadLevel("Title");
+            Application.LoadLevel("TitleScreen");
         }
 	}
 }
