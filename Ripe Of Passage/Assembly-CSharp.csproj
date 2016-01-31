@@ -47,9 +47,14 @@
   <ItemGroup>
      <Compile Include="Assets\Scripts\Bullet.cs" />
      <Compile Include="Assets\Scripts\CameraController.cs" />
+     <Compile Include="Assets\Scripts\CutsceneAudio.cs" />
+     <Compile Include="Assets\Scripts\Ending.cs" />
      <Compile Include="Assets\Scripts\EnemyDeath.cs" />
      <Compile Include="Assets\Scripts\EnemyPathFollowing.cs" />
      <Compile Include="Assets\Scripts\FleeingBehavior.cs" />
+     <Compile Include="Assets\Scripts\Instructions.cs" />
+     <Compile Include="Assets\Scripts\MainMenu.cs" />
+     <Compile Include="Assets\Scripts\MusicManager.cs" />
      <Compile Include="Assets\Scripts\OffsetPursuitBehavior.cs" />
      <Compile Include="Assets\Scripts\PlayerAnimation.cs" />
      <Compile Include="Assets\Scripts\PlayerController.cs" />
@@ -57,10 +62,10 @@
      <Compile Include="Assets\Scripts\ReturnToMM.cs" />
      <Compile Include="Assets\Scripts\RoomManager.cs" />
      <Compile Include="Assets\Scripts\Shooting.cs" />
+     <Compile Include="Assets\Scripts\Splash.cs" />
      <Compile Include="Assets\Scripts\SpriteOrientation.cs" />
      <Compile Include="Assets\Scripts\Stairs.cs" />
      <Compile Include="Assets\Scripts\UI.cs" />
-     <Compile Include="Assets\Scripts\toLevel1.cs" />
      <Compile Include="Assets\unity-movement-ai\Scripts\ArriveUnit.cs" />
      <Compile Include="Assets\unity-movement-ai\Scripts\Camera\CameraMovement.cs" />
      <Compile Include="Assets\unity-movement-ai\Scripts\Camera\InfiniteGrid.cs" />
@@ -97,6 +102,7 @@
      <Compile Include="Assets\unity-movement-ai\Scripts\Wander2Unit.cs" />
      <Compile Include="Assets\unity-movement-ai\Scripts\WanderAvoidUnit.cs" />
      <None Include="Assets\unity-movement-ai\Models\Materials\Lines.shader" />
+     <None Include="Assets\Sound\script.txt" />
      <None Include="Assets\Standard Assets\Fonts\OpenSans\License!.txt" />
      <None Include="Assets\Standard Assets\CrossPlatformInput\CrossPlatformInputGuidelines.txt" />
  <Reference Include="UnityEngine.UI">

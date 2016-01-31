@@ -18,7 +18,7 @@ public class Ending : MonoBehaviour {
 
 	IEnumerator Example1 ( )
 	{
-		yield return new WaitForSeconds ( 27 );
+		yield return new WaitForSeconds ( 28 );
 		daikon.enabled = true;
 		tomato.enabled = true;
 	}
