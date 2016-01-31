@@ -102,9 +102,11 @@ public class SteeringBasics : MonoBehaviour {
 		if (direction.sqrMagnitude > 0.001f) {
 			float toRotation = (Mathf.Atan2 (direction.y, direction.x) * Mathf.Rad2Deg);
 			float rotation = Mathf.LerpAngle(transform.rotation.eulerAngles.z, toRotation, Time.deltaTime*turnSpeed);
-			
-			_rotation = Quaternion.Euler(0, 0, rotation);
-			rot = _rotation.eulerAngles.z;
+
+			if ( toRotation < 0f ) toRotation += 360;
+
+			//_rotation = Quaternion.Euler(0, 0, rotation);
+			rot = toRotation;
 		}
 	}
 
@@ -116,9 +118,9 @@ public class SteeringBasics : MonoBehaviour {
     public void lookAtDirection(float toRotation)
     {
 		float rotation = Mathf.LerpAngle(transform.rotation.eulerAngles.z, toRotation, Time.deltaTime * turnSpeed);
-
-		_rotation = Quaternion.Euler(0, 0, rotation);
-		rot = _rotation.eulerAngles.z;
+		if ( toRotation < 0f ) toRotation += 360;
+		//_rotation = Quaternion.Euler(0, 0, rotation);
+		rot = toRotation;
     }
 
     /* Returns the steering for a character so it arrives at the target */
